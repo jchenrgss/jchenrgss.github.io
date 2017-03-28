@@ -21,7 +21,9 @@ $\textbf{Table of Contents}$
 <a href="https://jchenrgss.github.io/vector_add_sub.html">Vector Addition and Subtraction</a><br>
 <a href="https://jchenrgss.github.io/motion_graphs.html">Motion Graphs</a><br>
 <a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a><br>
-<a href="https://jchenrgss.github.io/systems_equilibrium.html">Systems of Forces and Equilibrium</a>
+<a href="https://jchenrgss.github.io/systems_equilibrium.html">Systems of Forces and Equilibrium</a><br>
+<a href="https://jchenrgss.github.io/frictional_centripetal.html">Frictional and Centripetal Forces</a><br>
+<a href="https://jchenrgss.github.io/banked_curves.html">Banked Curves</a>
 </p>
 </body>
 </html>
