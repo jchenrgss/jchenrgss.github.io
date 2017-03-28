@@ -31,7 +31,7 @@ $\textbf{Conclusion}$
 Some more text
 $\text{ }\\$
 </p>
-$textbf{Sources of Error}$
+$\textbf{Sources of Error}$
 <p>
 Last bit of text
 </p>
