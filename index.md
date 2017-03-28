@@ -23,7 +23,17 @@ $\textbf{Table of Contents}$
 <a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a><br>
 <a href="https://jchenrgss.github.io/systems_equilibrium.html">Systems of Forces and Equilibrium</a><br>
 <a href="https://jchenrgss.github.io/frictional_centripetal.html">Frictional and Centripetal Forces</a><br>
-<a href="https://jchenrgss.github.io/banked_curves.html">Banked Curves</a>
+<a href="https://jchenrgss.github.io/banked_curves.html">Banked Curves</a><br>
+$\text{ }\\$
+</p>
+$\textbf{Conclusion}$
+<p>
+Some more text
+$\text{ }\\$
+</p>
+$textbf{Sources of Error}$
+<p>
+Last bit of text
 </p>
 </body>
 </html>
