@@ -12,8 +12,7 @@
 $\text{Introduction}$
 <p>
 Some text here
-
-test
+$\text{ }\\$
 </p>
 $\text{Table of Contents}$
 <p>
