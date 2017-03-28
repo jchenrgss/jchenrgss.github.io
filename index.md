@@ -17,6 +17,7 @@ $\text{ }\\$
 $\textbf{Table of Contents}$
 <p>
 <a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a>
+<a href="https://jchenrgss.github.io/vector_add_sub.html">Vector Addition and Subtraction</a>
 </p>
 </body>
 </html>
