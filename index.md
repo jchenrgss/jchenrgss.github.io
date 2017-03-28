@@ -16,8 +16,8 @@ $\text{ }\\$
 </p>
 $\textbf{Table of Contents}$
 <p>
-<a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a>
-<a href="https://jchenrgss.github.io/vector_add_sub.html">Vector Addition and Subtraction</a>
+<a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a><br>
+<a href="https://jchenrgss.github.io/vector_add_sub.html">Vector Addition and Subtraction</a><br>
 <a href="https://jchenrgss.github.io/motion_graphs.html">Motion Graphs</a>
 </p>
 </body>
