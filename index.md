@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>USS Arizona ~ Pearl Harbour</title>
+<title>CSI Project ~ Main</title>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
@@ -9,9 +9,10 @@
 </script>
 </head>
 <body>
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+### Introduction
+Some text here
 
+## Table of Contents
 <a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a>
 </body>
 </html>
