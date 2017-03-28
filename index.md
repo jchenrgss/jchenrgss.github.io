@@ -9,13 +9,12 @@
 </script>
 </head>
 <body>
+$\text{Introduction}$
 <p>
-$\text{Introduction}\\$
 Some text here
 </p>
-<p> </p>
+$\text{Table of Contents}$
 <p>
-$\text{Table of Contents}\\$
 <a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a>
 </p>
 </body>
