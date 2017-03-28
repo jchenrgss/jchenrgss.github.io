@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Newton's Laws of Motion</title>
+<title>CSI Project ~ Newton's Laws of Motion</title>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
