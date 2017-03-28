@@ -14,6 +14,6 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 [Newton's Laws of Motion](docs/newton_laws.md)
 
-<a href="https://github.com/jchenrgss/jchenrgss.github.io/tree/master/docs/newton_laws.md">Newton's Laws of Motion</a>
+<a href="https://jchenrgss.github.io/docs/newton_laws.md">Newton's Laws of Motion</a>
 </body>
 </html>
