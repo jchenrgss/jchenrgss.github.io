@@ -11,7 +11,10 @@
 <body>
 $\textbf{Introduction}$
 <p>
-Introduction
+The USS <i>Arizona</i> was a <i>Pennylvania</i>-class battleship that was stationed with the US Navy's Pacific Fleet at Pearl Harbour during World War II. However, on the morning of 7 December 1941, <i>Arizona</i> was bombed by Japanese aircraft, causing it to explode violently and sink, leading to the loss of 1,177 people. Unlike the many other ships that were damaged or sunk during the attack, <i>Arizona</i> was irreparably damaged and could not be repaired. The wreck continues to lie at the bottom of Pearl Harbour today, and rests below a memorial to those who died.
+</p>
+<p>
+
 $\text{ }\\$
 </p>
 $\textbf{Table of Contents}$
