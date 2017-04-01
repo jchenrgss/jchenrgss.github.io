@@ -12,7 +12,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Arizona_%28BB39%29_Port_Bow%2C_Underway_-_NARA_-_5900075_-_1930.jpg" alt="USS Arizona in 1929">
 $\textbf{Introduction}$
 <p>
-The USS <i>Arizona</i> was a <i>Pennylvania</i>-class battleship that was stationed with the US Navy's Pacific Fleet at Pearl Harbour during World War II. However, on the morning of 7 December 1941, <i>Arizona</i> was bombed by Japanese aircraft, causing it to explode violently and sink, leading to the loss of 1,177 people. Unlike the many other ships that were damaged or sunk during the attack, <i>Arizona</i> was irreparably damaged and could not be repaired. The wreck continues to lie at the bottom of Pearl Harbour today, and rests below a memorial to those who died.<br><br>
+The USS *Arizona* was a <i>Pennylvania</i>-class battleship that was stationed with the US Navy's Pacific Fleet at Pearl Harbour during World War II. However, on the morning of 7 December 1941, <i>Arizona</i> was bombed by Japanese aircraft, causing it to explode violently and sink, leading to the loss of 1,177 people. Unlike the many other ships that were damaged or sunk during the attack, <i>Arizona</i> was irreparably damaged and could not be repaired. The wreck continues to lie at the bottom of Pearl Harbour today, and rests below a memorial to those who died.<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/The_USS_Arizona_%28BB-39%29_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg" alt="USS Arizona after magazine explosion" width="303" height="240">
 </p>
 <p>
