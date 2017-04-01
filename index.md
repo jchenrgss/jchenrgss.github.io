@@ -16,14 +16,9 @@ $\text{ }\\$
 </p>
 $\textbf{Table of Contents}$
 <p>
-<a href="https://jchenrgss.github.io/velocity_acceleration.html">Velocity Vectors and Acceleration</a><br>
-<a href="https://jchenrgss.github.io/projectile_motion.html">Projectile Motion</a><br>
-<a href="https://jchenrgss.github.io/vector_add_sub.html">Vector Addition and Subtraction</a><br>
-<a href="https://jchenrgss.github.io/motion_graphs.html">Motion Graphs</a><br>
-<a href="https://jchenrgss.github.io/newton_laws.html">Newton's Laws of Motion</a><br>
-<a href="https://jchenrgss.github.io/systems_equilibrium.html">Systems of Forces and Equilibrium</a><br>
-<a href="https://jchenrgss.github.io/frictional_centripetal.html">Frictional and Centripetal Forces</a><br>
-<a href="https://jchenrgss.github.io/banked_curves.html">Banked Curves</a><br>
+<a href="https://jchenrgss.github.io/scenario1.html">Scenario 1</a><br>
+<a href="https://jchenrgss.github.io/scenario2.html">Scenario 2</a><br>
+<a href="https://jchenrgss.github.io/scenario3.html">Scenario 3</a><br>
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
