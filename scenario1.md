@@ -1,15 +1,14 @@
 <html>
 <head>
-<title>MathJax TeX Test Page</title>
+<title>CSI Project - Main</title>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
 <script type="text/javascript" async
-  src="https://example.com/MathJax.js?config=TeX-AMS_CHTML">
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
 </script>
 </head>
 <body>
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+$\text{Testing} x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
 </body>
 </html>
