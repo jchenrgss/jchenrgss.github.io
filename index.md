@@ -20,7 +20,7 @@ During the attack, four hits and three near misses on the <i>Arizona</i> were ob
 </p>
 <p>
 From these pieces of evidence, several possible scenarios can be devised: the Japanese battleship <i>Nagato</i>'s shells from its primary cannons hit and sank the <i>Arizona</i> (unlikely), <i>Val</i> dive bombers hit the ship from a low altitude (likely), or <i>Kate</i> bombers dropped modified 800-kg bombs from a medium altitude (very likely). Using knowledge of motion and dynamics, it is possible to accurately determine how the <i>Arizona</i>was sunk. For example, the range equation can be used to determine if it was possible for the <i>Nagato</i>'s guns to hit the <i>Arizona</i> at one particular spot, the kinematics equations can be used to determine the flight path of falling bombs, and Newton's laws of motion can explain why the ship exploded so catastophically.<br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pearlmap2.png" alt="Map of Pearl Harbour" width="352" height="480"><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pearlmap2.png" alt="Map of Pearl Harbour" width="352" height="480"><br><br>
 <b>Legend</b><br>
 3: USS Oklahoma; 4: USS Tennessee; 5: USS West Viginia; 6: USS Arizona; 7: USS Nevada
 $\text{ }\\$
