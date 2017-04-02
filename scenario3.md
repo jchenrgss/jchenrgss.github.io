@@ -34,6 +34,11 @@ $\text{ }\\$
 $\textbf{Friction and Equilibrium}$
 <p>
 $\text{The B5N flies straight and level at a constant speed when bombing. Thus, there is no acceleration}\\\text{in either the }x\text{ or }y\text{ directions (i.e. }F_{\text{net}_x}\text{ and }F_{\text{net}_y}=0\text{).}\\$
+$$\overrightarrow{F_{\text{net}_x}}=\overrightarrow{F_{app}}-\overrightarrow{F_D}=0\text{, }\overrightarrow{F_{app}}=\overrightarrow{F_D}$$
+$$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA=\frac{1}{2}(1.225\text{ kg/m}^3)(105\text{ m/s})^2(0.025)(37.3\text{ m}^2)$$
+$$\overrightarrow{F_D}=(0.6125\text{ kg/m}^3)(11,025\text{ m}^2\text{s}^{-2})(0.9325\text{ m}^2)$$
+$$\overrightarrow{F_D}=6,296.9977\text{ N}=6,300\text{ N [Backward]}$$
+$$\text{Therefore, }\overrightarrow{F_{app}}=6,296.9977\text{ N}=6,300\text{ N [Forward]}$$
 $\text{ }\\$
 </p>
 $\textbf{Projectile Motion Calculations (Half-Parabola)}$
