@@ -138,6 +138,11 @@ $\text{Change in velocity:}$
 $$\Delta\overrightarrow{v}=\overrightarrow{v_f}-\overrightarrow{v_i}$$
 $$\Delta\overrightarrow{v}=(16.4966\text{ m/s }\hat{\text{i}}+93.5567\text{ m/s }\hat{\text{j}})-(-74.2462\text{ m/s }\hat{\text{i}}-74.2462\text{ m/s }\hat{\text{j}})$$
 $$\Delta\overrightarrow{v}=90.7428\text{ m/s }\hat{\text{i}}+167.8029\text{ m/s }\hat{\text{j}}$$
+$$|\Delta\overrightarrow{v}|=\sqrt{\Delta\overrightarrow{d_{\hat{\text{i}}}}^2+\Delta\overrightarrow{d_{\hat{\text{j}}}}^2}=\sqrt{(90.7428\text{ m/s }\hat{\text{i}})^2+(167.8029\text{ m/s }\hat{\text{j}})^2}$$
+$$|\Delta\overrightarrow{v}|=190.7671\text{ m/s}=190\text{ m/s}$$
+$$\theta=\tan^{-1}(\frac{\Delta\overrightarrow{d_{\hat{\text{j}}}}}{\Delta\overrightarrow{d_{\hat{\text{i}}}}})=\tan^{-1}(\frac{167.8029\text{ m/s }\hat{\text{j}}}{90.7428\text{ m/s }\hat{\text{i}}})$$
+$$\theta=61.5968^\circ=62^\circ$$
+$\therefore
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
