@@ -128,7 +128,7 @@ $\text{ }\\$
 </p>
 $\textbf{Vector Subtraction (Displacement / Average Velocity)}$
 <p>
-Text
+$\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W]. At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a velocity of 342 m/s [N }80^\circ\text{ E]. What is the change in velocity and average acceleration of the B5Ns?}$
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
