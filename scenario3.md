@@ -57,9 +57,11 @@ $$\overrightarrow{v_{f_y}}^2=\overrightarrow{v_{i_y}}^2+2\overrightarrow{a_y}\De
 $$\overrightarrow{v_{f_y}}^2=\sqrt{2\overrightarrow{a_y}\Delta\overrightarrow{d_y}}=\sqrt{2(9.8\text{ m/s}^2)(3000\text{ m})}$$
 $$\overrightarrow{v_{f_y}}^2=242.4871\text{ m/s}=240\text{ m/s [Downward]}$$
 $\textbf{3.}\text{ Determine the time for the bomb to fall, assuming air resistance.}$ $$\overrightarrow{F_{\text{net}_y}}=\overrightarrow{F_g}-\overrightarrow{F_D}=m\overrightarrow{a_y}$$
-$$\overrightarrow{F_g}=mg=(800\text{ kg})(9.8\text{ m/s}^2)\\$$ $$\overrightarrow{F_g}=7840\text{ N}=7800\text{ N [Downward]}$$ $$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA=\frac{1}{2}(1.225\text{ kg/m}^3)(242.4871\text{ m/s})^2(0.10)(\pi(\frac{0.41\text{ m}}{2})^2)$$
+$$\overrightarrow{F_g}=mg=(800\text{ kg})(9.8\text{ m/s}^2)$$
+$$\overrightarrow{F_g}=7840\text{ N}=7800\text{ N [Downward]}$$ $$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA=\frac{1}{2}(1.225\text{ kg/m}^3)(242.4871\text{ m/s})^2(0.10)(\pi(\frac{0.41\text{ m}}{2})^2)$$
 $$\overrightarrow{F_D}=(0.6125\text{ kg/m}^3)(58,800\text{ m}^2\text{s}^{-2})(0.1320\text{ m}^2)$$
 $$\overrightarrow{F_D}=475.4896\text{ N}=480\text{ N[Upward]}$$
+$\text{Use Newton's second law of motion to calculate acceleration due to air resistance.}$
 $$\overrightarrow{F_g}-\overrightarrow{F_D}=7840\text{ N}\,-\,475.4896\text{ N}=7364.5104\text{ N [Downward]}$$
 $$7364.5102\text{ N}=m\overrightarrow{a_y}=(800\text{ kg})\overrightarrow{a_y}$$
 $$\overrightarrow{a_y}=\frac{7364.5102\text{ N}}{800\text{ kg}}=9.2056\text{ m/s}^2\text{ [Downward]}$$
