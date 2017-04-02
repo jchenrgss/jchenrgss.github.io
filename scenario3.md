@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CSI Project - Main</title>
+<title>CSI Project - Scenario 3</title>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
@@ -9,7 +9,7 @@
 </script>
 </head>
 <body>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nakajima_B5N2_Kate_in_flight.jpg" alt="B5N in flight">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Pearl_Harbor-_Nakajima_B5N2_over_Hickam-_80G178985.jpg" alt="B5N over Pearl Harbor">
 $\textbf{Introduction and Evidence}$
 <p>
 The Nakajima B5N "Kate" was the standard carrier torpedo bomber of the IJN for much of World War II. During the attack on Pearl Harbor, B5Ns operated from the six Japanese aircraft carriers, and were very successful in their objective, despite being refitted as a bomber. Here, I will consider the final (and proven) scenario that B5Ns bombed the Arizona, causing it to sink.
