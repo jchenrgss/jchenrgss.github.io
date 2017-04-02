@@ -63,6 +63,7 @@ $$\Delta\overrightarrow{d_x}=\overrightarrow{v_{i_x}}\Delta t\,+\,\frac{1}{2}\ov
 $$\Delta\overrightarrow{d_x}=(647.1301\text{ m/s})(92.4746\text{ s})\,+\,\frac{1}{2}(-6.3073\text{ m/s}^2)(92.4746\text{ s})^2$$
 $$\Delta\overrightarrow{d_x}=59,843.0985\text{ m}\,-\,26,968.6008\text{ m}$$
 $$\Delta\overrightarrow{d_x}=32,874.4977\text{ m}=33,000\text{ m}$$
+$textbf{3.}\text{ Determine the final velocity of the shell and its impact angle.}\\$
 $\text{ }\\$
 </p>
 </body>
