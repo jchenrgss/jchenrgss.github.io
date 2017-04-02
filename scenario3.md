@@ -52,6 +52,10 @@ $$\Delta\overrightarrow{d_y}=\overrightarrow{v_{i_y}}\Delta t\,+\,\frac{1}{2}\ov
 $$3000\text{ m}=\frac{1}{2}(9.8\text{ m/s}^2)\Delta t^2$$
 $$\Delta t=\sqrt{3000\text{ m}\over4.9\text{ m/s}^2}=\sqrt{612.2449\text{ s}^2}$$
 $$\Delta t=24.7436\text{ s}=25\text{s}$$
+$\textbf{2.}\text{ Determine the final vertical velocity of the bomb, assuming no air resistance.}$
+$$\overrightarrow{v_{f_y}}^2=\overrightarrow{v_{i_y}}^2+2\overrightarrow{a_y}\Delta\overrightarrow{d_y}=0\,+\,2\overrightarrow{a_y}\Delta\overrightarrow{d_y}$$
+$$\overrightarrow{v_{f_y}}^2=\sqrt{2\overrightarrow{a_y}\Delta\overrightarrow{d_y}}=\sqrt{2(9.8\text{ m/s}^2)(3000\text{ m})}$$
+$$\overrightarrow{v_{f_y}}^2=242.4871\text{ m/s}=240\text{ m/s [Downward]}$$
 $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
