@@ -50,12 +50,12 @@ $\text{Next, calculate the acceleration due to air resistance using Newton's sec
 $$\overrightarrow{F_D}=ma_D=(800\text{ kg})(a_D)$$
 $$a_D=\frac{504.5849\text{ N}}{800\text{ kg}}=0.6307\text{ m/s}^2=0.63\text{ m/s}^2\text{ [Backward]}$$
 $\text{In order to find the horizontal displacement, first find time using the y-component.}$
-$$\overrightarrow{v_i_y}=\overrightarrow{v_i}\sin35^\circ=(790\text{ m})(\sin35^\circ)$$
-$$\overrightarrow{v_i_y}=453.1254\text{ m/s}$$
-$$\Delta\overrightarrow{d_y}=\overrightarrow{v_i_y}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_y}\Delta t^2$$
+$$\overrightarrow{{v_i}_y}=\overrightarrow{v_i}\sin35^\circ=(790\text{ m})(\sin35^\circ)$$
+$$\overrightarrow{{v_i}_y}=453.1254\text{ m/s}$$
+$$\Delta\overrightarrow{d_y}=\overrightarrow{{v_i}_y}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_y}\Delta t^2$$
 $$0=(453.1254\text{ m/s})\Delta t\,+\,(-4.9\text{ m/s}^2)\Delta t^2$$
 $$0=-4.9\text{ m/s}^2\Delta t(\Delta t\,-\,92.4746\text{ s})$$
-$$\Delta t=0\text { s, }92.4746\text { s}
+$$\Delta t=0\text { s, }92.4746\text { s}$$
 $\text{ }\\$
 </p>
 </body>
