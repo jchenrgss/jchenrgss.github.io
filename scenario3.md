@@ -128,7 +128,7 @@ $\text{ }\\$
 </p>
 $\textbf{Vector Subtraction (Displacement / Average Velocity)}$
 <p>
-$\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W].}\\\text{At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a}\\\text{velocity of 342 m/s [N }80^\circ\text{ E]. What is the change in velocity and average acceleration of the B5Ns?}\\$
+$\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W].}\\\text{At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a}\\\text{velocity of 342 m/s [N }10^\circ\text{ E]. What is the change in velocity and average acceleration of the B5Ns?}\\$
 $\text{Vector components:}$
 $$\overrightarrow{v_i}=(-105\text{ m/s}\times\cos45^\circ\text{ }\hat{\text{i}})+(-105\text{ m/s}\times\sin45^\circ\text{ }\hat{\text{j}})$$
 $$\overrightarrow{v_i}=-74.2462\text{ m/s }\hat{\text{i}}-74.2462\text{ m/s }\hat{\text{j}}$$
@@ -142,9 +142,10 @@ $$|\Delta\overrightarrow{v}|=\sqrt{\Delta\overrightarrow{d_{\hat{\text{i}}}}^2+\
 $$|\Delta\overrightarrow{v}|=190.7671\text{ m/s}=190\text{ m/s}$$
 $$\theta=\tan^{-1}(\frac{\Delta\overrightarrow{d_{\hat{\text{j}}}}}{\Delta\overrightarrow{d_{\hat{\text{i}}}}})=\tan^{-1}(\frac{167.8029\text{ m/s }\hat{\text{j}}}{90.7428\text{ m/s }\hat{\text{i}}})$$
 $$\theta=61.5968^\circ=62^\circ$$
-$\therefore\text{The change in velocity is approximately 190 m/s [N }62^\circ\text{ E].}$
+$\therefore\text{The change in velocity is approximately 190 m/s [E }62^\circ\text{ N].}$
 $$\overrightarrow{a}=\frac{\Delta\overrightarrow{v}}{\Delta t}=\frac{190.7671\text{ m/s}}{5400\text{ s}}$$
-$$\overrightarrow{a}=3.5327\times10^2\text{ m/s}^2=3.5\times10^2\text{ m/s}^2 \text{ [N }62^\circ\text{ E]}$$
+$$\overrightarrow{a}=3.5327\times10^2\text{ m/s}^2=3.5\times10^2\text{ m/s}^2 \text{ [E }62^\circ\text{ N]}$$
+$\textbf{2.}\text{ At one point during the battle, Arizona is at a position 600 m [N }15^\circ\text{ W] relative to one B5N.}\\\text{A second B5N is at a position 240 m [E }20^\circ\text{ N] relative to Arizona. What is the displacement}\\\text{between the two B5Ns?}\\$
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
