@@ -69,6 +69,14 @@ $$\Delta\overrightarrow{d_y}=\overrightarrow{v_{i_y}}\Delta t\,+\,\frac{1}{2}\ov
 $$3000\text{ m}=\frac{1}{2}(9.2056\text{ m/s}^2)\Delta t^2$$
 $$\Delta t^2=\frac{3000\text{ m}}{4.6028\text{ m/s}^2}\text{, }\Delta t=\sqrt{\frac{3000\text{ m}}{4.6028\text{ m/s}^2}}$$
 $$\Delta t=25.5299\text{ s}=26\text{ s}$$
+$\textbf{4.}\text{ Determine the horizontal displacement of the bomb, assuming no air resistance.}$
+$$\Delta\overrightarrow{d_x}=\overrightarrow{v_x}\Delta t=(105\text{ m/s})(25.5299\text{ s})$$
+$$\Delta\overrightarrow{d_x}=2680.6368\text{ m}=2700\text{ m [Forward]}$$
+$\textbf{5.}\text{ Determine the horizontal displacement of the bomb, assuming air resistance.}$
+$$\overrightarrow{F_{\text{net}_x}}=\overrightarrow{F_D}=m\overrightarrow{a_x}$$
+$$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA=\frac{1}{2}(1.225\text{ kg/m}^3)(105\text{ m/s})^2(0.10)(\pi(\frac{0.41\text{ m}}{2})^2)$$
+$$\overrightarrow{F_D}=(0.6125\text{ kg/m}^3)(11,025\text{ m/s})(0.0132\text{ m}^2)$$
+$$\overrightarrow{F_D}=89.1543\text{ N}=89\text{ N [Backward]}$$
 $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
