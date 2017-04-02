@@ -25,7 +25,13 @@ Shell mass: 1,020 kg<br>
 Muzzle velocity: 790 m/s<br>
 Effective firing range: 30,200 m<br>
 Maximum firing range: 38,400 m<br><br>
-Boeing B-17 maximum range: 3,219 km = 3,219,000 m<br>
+Boeing B-17 Flying Fortress maximum range: 3,219 km = 3,219,000 m<br>
+Douglas SBD Dauntless maximum range: 1,795 km = 1,795,000 m<br>
+$\text{ }\\$
+</p>
+$\textbf{Velocity Vectors}$
+<p>
+Text
 $\text{ }\\$
 </p>
 $\textbf{Projectile Motion Calculations (Symmetric Parabola)}$
@@ -76,6 +82,20 @@ $$|\overrightarrow{v_f}|=457.5882\text{ m/s}=460\text{ m/s}$$
 $\text{To calculate angle:}$
 $$\theta=\tan^{-1}(\frac{|\overrightarrow{v_{f_y}}|}{|\overrightarrow{v_{f_x}}|})=\tan^{-1}(\frac{453.1254\text{ m/s}}{63.8651\text{ m/s}})$$
 $$\theta=81.9914^\circ=82^\circ$$
+$\text{ }\\$
+</p>
+$\textbf{Motion Graphs}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Conclusion}$
+<p>
+Based on the evidence that Nagato probably would have fired her guns from a range of 33,000 km away (which is approximately her maximum effective firing range), and that the shell would have come down on Arizona at about an 82 degree angle, it is possible that the shell penetrated the deck of Arizona and hit the second turret's ammunition magazine, causing it to explode. From a physics perspective, it would not be possible to determine if Nagato was the culprit in the destruction of Arizona, because the projectile motion calculations provide a viable explanation. From an evidence-based perspective, the same conclusion can be reached because the 41-cm shell fired by Nagato's main guns were the same shell (albeit slightly modified) dropped by B5N bombers. Thus, the impact markings would be the same.
+</p>
+<img src="https://i.imgur.com/3ffyxna.jpg" alt="Diagram of USS Arizona">
+<p>
+However, from a strategic perspective, it would make no sense to have a flagship battleship so close to an enemy airfield. At the time of the attack, B-17 bombers were parked at Pearl Harbor's airfield, and SBD dive bombers were stationed on the US carrier Enterprise (location unknown to the Japanese). Both of these aircraft have maximum ranges significantly greater than Nagato's maximum firing range, so military strategists would not have risked placing the Nagato so close to the battlefield. Thus, the scenario that Nagato sunk the Arizona can be eliminated.
 $\text{ }\\$
 </p>
 <a href="https://jchenrgss.github.io/index.html">Return to main page</a><br>
