@@ -128,7 +128,16 @@ $\text{ }\\$
 </p>
 $\textbf{Vector Subtraction (Displacement / Average Velocity)}$
 <p>
-$\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W].}\\\text{At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a}\\\text{velocity of 342 m/s [N }80^\circ\text{ E]. What is the change in velocity and average acceleration of the B5Ns?}$
+$\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W].}\\\text{At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a}\\\text{velocity of 342 m/s [N }80^\circ\text{ E]. What is the change in velocity and average acceleration of the B5Ns?}\\$
+$\text{Vector components:}$
+$$\overrightarrow{v_i}=(-105\text{ m/s}\times\cos45^\circ\text{ }\hat{\text{i}})+(-105\text{ m/s}\times\sin45^\circ\text{ }\hat{\text{j}})$$
+$$\overrightarrow{v_i}=-74.2462\text{ m/s }\hat{\text{i}}-74.2462\text{ m/s }\hat{\text{j}}$$
+$$\overrightarrow{v_f}=(95\text{ m/s}\times\cos80^\circ\text{ }\hat{\text{i}})+(95\text{ m/s}\times\sin80^\circ\text{ }\hat{\text{j}})$$
+$$\overrightarrow{v_f}=16.4966\text{ m/s }\hat{\text{i}}+93.5567\text{ m/s }\hat{\text{j}}$$
+$\text{Change in velocity:}$
+$$\Delta\overrightarrow{v}=\overrightarrow{v_f}-\overrightarrow{v_i}$$
+$$\Delta\overrightarrow{v}=(16.4966\text{ m/s }\hat{\text{i}}+93.5567\text{ m/s }\hat{\text{j}})-(-74.2462\text{ m/s }\hat{\text{i}}-74.2462\text{ m/s }\hat{\text{j}})$$
+$$\Delta\overrightarrow{v}=90.7428\text{ m/s }\hat{\text{i}}+167.8029\text{ m/s }\hat{\text{j}}$$
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
