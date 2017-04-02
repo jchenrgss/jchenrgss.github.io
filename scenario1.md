@@ -39,7 +39,8 @@ $$\Delta\overrightarrow{d}=59,843.0780\text{ m}$$
 $59,843.0780\text{ m is much greater than }38,400\text{ m.}\\$
 $\text{2. Determine the maximum range of the shell, assuming air resistance. Use the drag equation:}$
 $$F_D=\frac{1}{2}\rho u^2C_DA$$
-$F_D\text{ is the drag force, }\rho\text{ is the density of air, }u\text{ is the airspeed, }C_D\text{ is the drag coefficient, and }A\text{ is the}\\\text{reference area. Assume }\rho=1.225\text{ kg/m}^3\text{ and }C_D=0.01.$
+$F_D\text{ is the drag force, }\rho\text{ is the density of air, }u\text{ is the airspeed, }C_D\text{ is the drag coefficient, and }A\text{ is the}\\\text{reference area. Assume }\rho=1.225\text{ kg/m}^3\text{ and }C_D=0.01.\\$
+$A=\pi r^2=\pi(\frac{d}{2})^2\text{, where }d=0.41\text{ m (gun caliber)}$
 $\text{ }\\$
 </p>
 </body>
