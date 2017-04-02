@@ -37,17 +37,21 @@ $\text{The B5N flies straight and level at a constant speed when bombing. Thus, 
 $$\overrightarrow{F_{\text{net}_x}}=\overrightarrow{F_{app}}-\overrightarrow{F_D}=0\text{, }\overrightarrow{F_{app}}=\overrightarrow{F_D}$$
 $$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA=\frac{1}{2}(1.225\text{ kg/m}^3)(105\text{ m/s})^2(0.025)(37.3\text{ m}^2)$$
 $$\overrightarrow{F_D}=(0.6125\text{ kg/m}^3)(11,025\text{ m}^2\text{s}^{-2})(0.9325\text{ m}^2)$$
-$$\overrightarrow{F_D}=6,296.9977\text{ N}=6,300\text{ N [Backward]}$$
-$\text{Therefore, }\overrightarrow{F_{app}}=6,296.9977\text{ N}=6,300\text{ N [Forward]}$
+$$\overrightarrow{F_D}=6296.9977\text{ N}=6,300\text{ N [Backward]}$$
+$\text{Therefore, }\overrightarrow{F_{app}}=6296.9977\text{ N}=6300\text{ N [Forward]}$
 $$\overrightarrow{F_{\text{net}_y}}=\overrightarrow{F_L}-\overrightarrow{F_g}=0\text{, }\overrightarrow{F_L}=\overrightarrow{F_g}$$
-$$\overrightarrow{F_g}=mg=(4,100\text{ kg})(9.8\text{ m/s}^2)$$
+$$\overrightarrow{F_g}=mg=(4100\text{ kg})(9.8\text{ m/s}^2)$$
 $$\overrightarrow{F_g}=40,180\text{ N}=40,000\text{ N [Downward]}$$
 $\text{Therefore, }\overrightarrow{F_L}=40,180\text{ N}=40,000\text{ N [Upward]}\\$
 $\text{ }\\$
 </p>
 $\textbf{Projectile Motion Calculations (Half-Parabola)}$
 <p>
-Text
+$\textbf{1.}\text{ Determine the time for the bomb to fall, assuming no air resistance.}$
+$$\Delta\overrightarrow{d_y}=\overrightarrow{v_{i_y}}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_y}\Delta t^2=0\,+\,\frac{1}{2}\overrightarrow{a_y}\Delta t^2$$
+$$3000\text{ m}=\frac{1}{2}(9.8\text{ m/s}^2)\Delta t^2$$
+$$\Delta t=\sqrt{3000\text{ m}\over4.9\text{ m/s}^2}=\sqrt{612.2449\text{ s}^2}$$
+$$\Delta t=24.7436\text{ s}=25\text{s}$$
 $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
