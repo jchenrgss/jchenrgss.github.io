@@ -32,7 +32,7 @@ $\textbf{Projectile Motion Calculations}$
 <p>
 $\text{1. Determine the maximum range of the shell, assuming no air resistance. Use the range equation:}$
 $$\Delta\overrightarrow{d}=\frac{\overrightarrow{v_i}^2\sin2\theta}{g}$$
-$\text{Use \emph{Nagato}'s maximum gun elevation, because as }\theta\text{ increases, }\sin2\theta\text{ increases to approximately }0.57$
+$\text{Use }Nagato\text{'s maximum gun elevation, because as }\theta\text{ increases, }\sin2\theta\text{ increases to approximately }0.57$
 $\text{ }\\$
 </p>
 </body>
