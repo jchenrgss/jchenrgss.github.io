@@ -106,7 +106,13 @@ $\text{ }\\$
 </p>
 $\textbf{Newton's First Law of Motion}$
 <p>
-Text
+When the dropped bomb hit the deck of Arizona, it did not simply explode on the surface. Instead, it tore a hole through her deck and exploded beneath the second turret, causing its ammunition magazine to explode. This can be explained using Newton's first law of motion: inertia, which means that objects tend to continue in their state of motion unless acted on by an external force. That is, objects in motion tend to stay in motion, unless something acts to stop the object from moving. In this case, the bomb is falling (moving), so when it hits the deck of Arizona, it will continue to move instead of stopping instantly.
+</p>
+Bomb manufacturers exploit this property, and construct bombs with specific fuzes--bombs that explode only after a certain period of time has elapsed since impact. This particular technology was the main reason as to why Arizona exploded so violently. If the bomb were to explode on the deck of the ship, very little damage would be done. By waiting for the bomb to pass through the deck, maximal amounts of damage can be dealt to enemy targets.
+<p>
+</p>
+Similarly, inertia can also be used to explain why the ships in Pearl Harbor could not escape and why few US aircraft were able to take off and fight the Japanese aircraft. Ships and planes are very heavy, so require great amounts of force to move. They tend to remain stationary, which makes them vulnerable to attack for long periods of time. By striking preemptively, the Japanese were able to obtain the upper hand in the battle, taking advantage of the enemy's great inertia.
+<p>
 $\text{ }\\$
 </p>
 $\textbf{Banked Curves}$
