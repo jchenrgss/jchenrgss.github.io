@@ -9,6 +9,63 @@
 </script>
 </head>
 <body>
-$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nakajima_B5N2_Kate_in_flight.jpg" alt="B5N in flight">
+$\textbf{Introduction and Evidence}$
+<p>
+The Nakajima B5N "Kate" was the standard carrier torpedo bomber of the IJN for much of World War II. During the attack on Pearl Harbor, B5Ns operated from the six Japanese aircraft carriers, and were very successful in their objective, despite being refitted as a bomber. Here, I will consider the final (and proven) scenario that B5Ns bombed the Arizona, causing it to sink.
+</p>
+<p>
+The bombs dropped by B5Ns at Pearl Harbor were modified 41-cm armour penetrating (AP) shells fired by the 41-cm naval gun (the same gun on the battleship Nagato). Torpedoes were also used in battle, but not against Arizona.<br><br>
+Wing area: 37.3 m^2<br>
+Loaded weight (without 800-kg bomb): 3,300 kg<br>
+Loaded weight: 4,100 kg<br>
+Engine power: 1,000 hp<br>
+Maximum speed: 378 km/h = 105 m/s<br>
+Range: 1,992 km = 1,992,000 m<br>
+Bombing altitude: 3,000 m<br>
+Drag coefficient: 0.025<br>
+$\text{ }\\$
+</p>
+$\textbf{Velocity Vectors}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Friction and Equilibrium}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Projectile Motion Calculations (Half-Parabola)}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Motion Graphs}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Newton's First Law of Motion}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Banked Curves}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Vector Subtraction (Average Velocity)}$
+<p>
+Text
+$\text{ }\\$
+</p>
+$\textbf{Conclusion}$
+<p>
+Text
+$\text{ }\\$
+</p>
+<a href="https://jchenrgss.github.io/index.html">Return to main page</a><br>
 </body>
 </html>
