@@ -33,7 +33,7 @@ $\text{ }\\$
 </p>
 $\textbf{Friction and Equilibrium}$
 <p>
-$\text{The B5N flies straight and level at a constant speed when bombing. Thus, there is no acceleration in either the }x\text{ or }y\text{ directions (i.e. }F_{\text{net}_x}\text{ and }F_{\text{net}_y}=0\text{).}\\$
+$\text{The B5N flies straight and level at a constant speed when bombing. Thus, there is no acceleration}\\\text{in either the }x\text{ or }y\text{ directions (i.e. }F_{\text{net}_x}\text{ and }F_{\text{net}_y}=0\text{).}\\$
 $\text{ }\\$
 </p>
 $\textbf{Projectile Motion Calculations (Half-Parabola)}$
