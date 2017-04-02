@@ -32,7 +32,7 @@ $\textbf{Projectile Motion Calculations (Symmetric Parabola)}$
 <p>
 $\textbf{1.}\text{ Determine the maximum range of the shell, assuming no air resistance. Use the range equation:}$
 $$\Delta\overrightarrow{d_x}=\frac{\overrightarrow{v_i}^2\sin2\theta}{g}$$
-$\text{Use }Nagato\text{'s maximum gun elevation, because as }\theta\text{ increases, }\sin2\theta\text{ increases to approximately }0.57.$
+$\text{Use }Nagato\text{'s maximum gun elevation, because as }\theta\text{ increases, }\sin2\theta\text{ increases to approximately }0.57.\\\text{An angle closer to 45 degrees would allow the ship to stay as far away as possible as to avoid return fire}$
 $$\Delta\overrightarrow{d_x}=\frac{(790\text{ m/s})^2(\sin2(35^\circ))}{(9.8\text{ m/s}^2)}$$
 $$\Delta\overrightarrow{d_x}=\frac{(624,100\text{ m}^2\text{s}^2)(\sin70^\circ)}{9.8\text{ m/s}^2}$$
 $$\Delta\overrightarrow{d_x}=59,843.0780\text{ m}=60,000\text{ m [Forward]}$$
