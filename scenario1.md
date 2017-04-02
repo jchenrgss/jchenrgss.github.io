@@ -70,6 +70,11 @@ $$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,-\,\frac{1}{2
 $$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,+\,26,968.6008\text{ m}$$
 $$\overrightarrow{v_{f_x}}=\frac{5,905.8969\text{ m}}{92.4746\text{ s}}$$
 $$\overrightarrow{v_{f_x}}=63.8651\text{ m/s}=64\text{ m/s [Forward]}$$
+$$|\overrightarrow{v_f}|=\sqrt{\overrightarrow{v_{f_x}}^2\,+\,\overrightarrow{v_{f_y}}^2}=\sqrt{(63.8651\text{ m/s})^2\,+\,(-453.1254\text{ m/s})^2}$$
+$$|\overrightarrow{v_f}|=\sqrt{4,078.7510\text{ m}^2\text{s}^2\,+\,205,322.6281\text{ m}^2\text{s}^2}$$
+$$|\overrightarrow{v_f}|=457.6040\text{ m/s}=460\text{ m/s}$$
+$\text{To calculate angle:}$
+
 $\text{ }\\$
 </p>
 </body>
