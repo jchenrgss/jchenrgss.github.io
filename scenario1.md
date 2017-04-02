@@ -31,7 +31,7 @@ $\text{ }\\$
 $\textbf{Projectile Motion Calculations}$
 <p>
 $\text{1. Determine the maximum range of the shell, assuming no air resistance.}\\$
-\text{Use the range equation: }\frac{\Delta d={v_i}^2\sin2\theta}{g}\\$
+$\text{Use the range equation: }\frac{\Delta d={v_i}^2\sin2\theta}{g}\\$
 $\text{ }\\$
 </p>
 </body>
