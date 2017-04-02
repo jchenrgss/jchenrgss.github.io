@@ -20,7 +20,7 @@ Overall length: 18.84 m<br>
 Bore length: 18.294 m<br>
 Mass: 102,000 kg<br>
 Elevation capacity: -2/+35 degrees<br>
-Rate of fire: 24 rpm<br><br>
+Rate of fire: 2.5 rpm<br><br>
 Shell mass: 1,020 kg<br>
 Muzzle velocity: 790 m/s<br>
 Effective firing range: 30,200 m<br>
