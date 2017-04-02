@@ -28,7 +28,7 @@ Maximum firing range: 38,400 m<br><br>
 Boeing B-17 maximum range: 3,219 km<br>
 $\text{ }\\$
 </p>
-$\textbf{Projectile Motion Calculations}$
+$\textbf{Projectile Motion Calculations (Symmetric Parabola)}$
 <p>
 $\textbf{1.}\text{ Determine the maximum range of the shell, assuming no air resistance. Use the range equation:}$
 $$\Delta\overrightarrow{d_x}=\frac{\overrightarrow{v_i}^2\sin2\theta}{g}$$
@@ -39,23 +39,25 @@ $$\Delta\overrightarrow{d_x}=59,843.0780\text{ m}=60,000\text{ m [Forward]}$$
 $59,843.08\text{ m is much greater than }38,400\text{ m, so air resistance cannot be ignored.}\\$
 $\textbf{2.}\text{ Determine the maximum range of the shell, assuming air resistance. Use the drag equation:}$
 $$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA$$
-$F_D\text{ is the drag force, }\rho\text{ is the density of air, }u\text{ is the airspeed, }C_D\text{ is the drag coefficient, and }A\text{ is the}\\\text{reference area. Assume }\rho=1.225\text{ kg/m}^3\text{ and }C_D=0.010.$
+$F_D\text{ is the drag force, }\rho\text{ is the density of air, }u\text{ is the airspeed, }C_D\text{ is the drag coefficient, and }A\text{ is the}\\\text{reference area. Assume }\rho=1.225\text{ kg/m}^3\text{ and }C_D=0.10.$
 $$A=\pi r^2=\pi(\frac{d}{2})^2\text{, where }d=0.41\text{ m (gun caliber)}$$
 $$A=\pi(\frac{0.41\text{ m}}{2})^2=0.1320\text{ m}^2$$
 $\text{Therefore,}$
-$$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(790\text{ m/s})^2(0.010)(0.1320\text{ m}^2)$$
-$$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(624,100\text{ m}^2\text{s}^{-2})(1.132\times10^3\text{ m}^2)$$
-$$\overrightarrow{F_D}=504.5849\text{ N}=500\text{ N [Backward]}$$
+$$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(790\text{ m/s})^2(0.10)(0.1320\text{ m}^2)$$
+$$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(624,100\text{ m}^2\text{s}^{-2})(0.0132\text{ m}^2)$$
+$$\overrightarrow{F_D}=5,045.8485\text{ N}=5000\text{ N [Backward]}$$
 $\text{Next, calculate the acceleration due to air resistance using Newton's second law of motion.}$
 $$\overrightarrow{F_D}=ma_D=(800\text{ kg})(a_D)$$
-$$a_D=\frac{504.5849\text{ N}}{800\text{ kg}}=0.6307\text{ m/s}^2=0.63\text{ m/s}^2\text{ [Backward]}$$
+$$a_D=\frac{5,045.8485\text{ N}}{800\text{ kg}}=6.3073\text{ m/s}^2=6.3\text{ m/s}^2\text{ [Backward]}$$
 $\text{In order to find the horizontal displacement, first find time using the y-component.}$
-$$\overrightarrow{v_{i_y}}=\overrightarrow{v_i}\sin35^\circ=(790\text{ m})(\sin35^\circ)$$
+$$\overrightarrow{v_{i_y}}=\overrightarrow{v_i}\sin35^\circ=(790\text{ m/s})(\sin35^\circ)$$
 $$\overrightarrow{v_{i_y}}=453.1254\text{ m/s}$$
 $$\Delta\overrightarrow{d_y}=\overrightarrow{v_{i_y}}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_y}\Delta t^2$$
 $$0=(453.1254\text{ m/s})\Delta t\,+\,(-4.9\text{ m/s}^2)\Delta t^2$$
 $$0=-4.9\text{ m/s}^2\Delta t(\Delta t\,-\,92.4746\text{ s})$$
 $$\Delta t=0\text { s, }92.4746\text { s}$$
+$\text{x-component:}$
+
 $\text{ }\\$
 </p>
 </body>
