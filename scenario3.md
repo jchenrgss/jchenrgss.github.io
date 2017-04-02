@@ -65,6 +65,10 @@ $\text{Use Newton's second law of motion to calculate acceleration due to air re
 $$\overrightarrow{F_g}-\overrightarrow{F_D}=7840\text{ N}\,-\,475.4896\text{ N}=7364.5104\text{ N [Downward]}$$
 $$7364.5102\text{ N}=m\overrightarrow{a_y}=(800\text{ kg})\overrightarrow{a_y}$$
 $$\overrightarrow{a_y}=\frac{7364.5102\text{ N}}{800\text{ kg}}=9.2056\text{ m/s}^2\text{ [Downward]}$$
+$$\Delta\overrightarrow{d_y}=\overrightarrow{v_{i_y}}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_y}\Delta t^2=0\,+\,\frac{1}{2}\overrightarrow{a_y}\Delta t^2$$
+$$3000\text{ m}=\frac{1}{2}(9.2056\text{ m/s}^2)\Delta t^2$$
+$$\Delta t^2=\frac{3000\text{ m}}{4.6028\text{ m/s}^2}\text{, }\Delta t=\sqrt{\frac{3000\text{ m}}{4.6028\text{ m/s}^2}}$$
+$$\Delta t=25.5299\text{ s}=26\text{ s}$$
 $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
