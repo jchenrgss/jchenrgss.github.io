@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>CSI Project - Main</title>
+<title>CSI Project - Scenario 1</title>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
