@@ -142,7 +142,9 @@ $$|\Delta\overrightarrow{v}|=\sqrt{\Delta\overrightarrow{d_{\hat{\text{i}}}}^2+\
 $$|\Delta\overrightarrow{v}|=190.7671\text{ m/s}=190\text{ m/s}$$
 $$\theta=\tan^{-1}(\frac{\Delta\overrightarrow{d_{\hat{\text{j}}}}}{\Delta\overrightarrow{d_{\hat{\text{i}}}}})=\tan^{-1}(\frac{167.8029\text{ m/s }\hat{\text{j}}}{90.7428\text{ m/s }\hat{\text{i}}})$$
 $$\theta=61.5968^\circ=62^\circ$$
-$\therefore
+$\therefore\text{The change in velocity is approximately 190 m/s [N }62^\circ\text{ E].}$
+$$\overrightarrow{a}=\frac{\Delta\overrightarrow{v}}{\Delta t}=\frac{190.7671\text{ m/s}}{5400\text{ s}}$$
+$$\overrightarrow{a}=3.5327\times10^2\text{ m/s}^2=3.5\times10^2\text{ m/s}^2 \text{ [N }62^\circ\text{ E]}$$
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
