@@ -117,10 +117,16 @@ $\text{ }\\$
 </p>
 $\textbf{Banked Curves}$
 <p>
-Text
+$\textbf{1.}\text{ Determine the radius of a turn if the angle of the incline is }45^\circ\text{.}$
+$$\tan\theta=\frac{\overrightarrow{v}^2}{rg}\text{, }r=\frac{\overrightarrow{v}^2}{g\tan\theta}$$
+$$r=\frac{(105\text{ m/s})^2}{(9.8\text{ m/s}^2)(\tan45^\circ)}$$
+$$r=1125\text{ m}=1100\text{ m}$$
+$\textbf{2.}\text{ Determine the angle of the incline if the radius of the turn is }500\text{ m.}$
+$$\theta=\tan^{-1}(\frac{(105\text{ m/s})^2}{(500\text{ m})(9.8\text{ m/s}^2)})$$
+$$\theta=66.0375^\circ=66^\circ$$
 $\text{ }\\$
 </p>
-$\textbf{Vector Subtraction (Average Velocity)}$
+$\textbf{Vector Subtraction (Displacement / Average Velocity)}$
 <p>
 Text
 $\text{ }\\$
