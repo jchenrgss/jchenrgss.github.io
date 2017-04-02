@@ -62,9 +62,14 @@ $$\overrightarrow{v_{i_x}}=647.1301\text{ m/s}$$
 $$\Delta\overrightarrow{d_x}=\overrightarrow{v_{i_x}}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_x}\Delta t^2$$
 $$\Delta\overrightarrow{d_x}=(647.1301\text{ m/s})(92.4746\text{ s})\,+\,\frac{1}{2}(-6.3073\text{ m/s}^2)(92.4746\text{ s})^2$$
 $$\Delta\overrightarrow{d_x}=59,843.0985\text{ m}\,-\,26,968.6008\text{ m}$$
-$$\Delta\overrightarrow{d_x}=32,874.4977\text{ m}=33,000\text{ m}$$
+$$\Delta\overrightarrow{d_x}=32,874.4977\text{ m}=33,000\text{ m [Forward]}$$
 $\textbf{3.}\text{ Determine the final velocity of the shell and its angle of impact.}\\$
-$\text{Because }\Delta\overrightarrow{d_y}=0\text{, }\overrightarrow{v_{f_y}}=\overrightarrow{-v_{i_y}}\text{, assuming no air resistance. However, }\overrightarrow{v_{f_x}}\ne\overrightarrow{v_{i_x}}\text{ due to air resistance.}\\$
+$\text{Because }\Delta\overrightarrow{d_y}=0\text{, }\overrightarrow{v_{f_y}}=\overrightarrow{-v_{i_y}}\text{, assuming no air resistance. However, }\overrightarrow{v_{f_x}}\ne\overrightarrow{v_{i_x}}\text{ due to air resistance.}\\\text{Use kinematic equation 4 to calculate }\overrightarrow{v_{f_x}}\text{ (why not).}$
+$$\Delta\overrightarrow{d_x}=\overrightarrow{v_{f_x}}\Delta t\,-\,\frac{1}{2}\overrightarrow{a_x}\Delta t^2$$
+$$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,-\,\frac{1}{2}(-6.3073\text{ m/s}^2)(92.4746\text{ s})^2$$
+$$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,+\,26,968.6008\text{ m}$$
+$$\overrightarrow{v_{f_x}}=\frac{5,905.8969\text{ m}}{92.4746\text{ s}}$$
+$$\overrightarrow{v_{f_x}}=63.8651\text{ m/s}=64\text{ m/s [Forward]}$$
 $\text{ }\\$
 </p>
 </body>
