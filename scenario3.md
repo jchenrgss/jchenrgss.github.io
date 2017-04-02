@@ -92,6 +92,11 @@ $$\Delta\overrightarrow{d_x}=\frac{1}{2}(\overrightarrow{v_{f_x}}\,+\,\overright
 $$2644.3190\text{ m}=\frac{1}{2}(\overrightarrow{v_{f_x}}\,+\,105\text{ m/s})(25.5299\text{ s})$$
 $$\frac{5288.6380\text{ m}}{25.5299\text{ s}}=\overrightarrow{v_{f_x}}\,+\,105\text{ m/s}$$
 $$\overrightarrow{v_{f_x}}=102.1549\text{ m/s}$$
+$\text{Combine the components:}$
+$$|\overrightarrow{v_f}|=\sqrt{\overrightarrow{v_{f_x}}^2\,+\,\overrightarrow{v_{f_y}}^2}=\sqrt{(102.1549\text{ m/s})^2\,+\,(235.0188\text{ m/s})^2}$$
+$$|\overrightarrow{v_f}|=256.2605\text{ m/s}=260\text{ m/s}$$
+$$\tan\theta=\frac{235.0188\text{ m/s}}{102.1549\text{ m/s}}\text{, }\theta=\tan^{-1}(\frac{235.0188\text{ m/s}}{102.1549\text{ m/s}})$$
+$$\theta=66.5070^\circ=67^\circ
 $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
