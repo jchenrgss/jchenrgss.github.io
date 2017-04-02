@@ -45,10 +45,10 @@ $$A=\pi(\frac{0.41\text{ m}}{2})^2=0.1320\text{ m}^2$$
 $\text{Therefore,}$
 $$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(790\text{ m/s})^2(0.10)(0.1320\text{ m}^2)$$
 $$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(624,100\text{ m}^2\text{s}^{-2})(0.0132\text{ m}^2)$$
-$$\overrightarrow{F_D}=5,045.8485\text{ N}=5000\text{ N [Backward]}$$
+$$\overrightarrow{F_D}=5,046.8206\text{ N}=5000\text{ N [Backward]}$$
 $\text{Next, calculate the acceleration due to air resistance using Newton's second law of motion.}$
 $$\overrightarrow{F_D}=ma_D=(800\text{ kg})(a_D)$$
-$$a_D=\frac{5,045.8485\text{ N}}{800\text{ kg}}=6.3073\text{ m/s}^2=6.3\text{ m/s}^2\text{ [Backward]}$$
+$$a_D=\frac{5,045.8485\text{ N}}{800\text{ kg}}=6.3085\text{ m/s}^2=6.3\text{ m/s}^2\text{ [Backward]}$$
 $\text{In order to find the horizontal displacement, first find time using the y-component.}$
 $$\overrightarrow{v_{i_y}}=\overrightarrow{v_i}\sin35^\circ=(790\text{ m/s})(\sin35^\circ)$$
 $$\overrightarrow{v_{i_y}}=453.1254\text{ m/s}$$
@@ -61,21 +61,21 @@ $$\overrightarrow{v_{i_x}}=\overrightarrow{v_i}\cos35^\circ=(790\text{ m/s})(\co
 $$\overrightarrow{v_{i_x}}=647.1301\text{ m/s}$$
 $$\Delta\overrightarrow{d_x}=\overrightarrow{v_{i_x}}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_x}\Delta t^2$$
 $$\Delta\overrightarrow{d_x}=(647.1301\text{ m/s})(92.4746\text{ s})\,+\,\frac{1}{2}(-6.3073\text{ m/s}^2)(92.4746\text{ s})^2$$
-$$\Delta\overrightarrow{d_x}=59,843.0985\text{ m}\,-\,26,968.6008\text{ m}$$
-$$\Delta\overrightarrow{d_x}=32,874.4977\text{ m}=33,000\text{ m [Forward]}$$
+$$\Delta\overrightarrow{d_x}=59,843.0780\text{ m}\,-\,26,973.8236\text{ m}$$
+$$\Delta\overrightarrow{d_x}=32,869.3544\text{ m}=33,000\text{ m [Forward]}$$
 $\textbf{3.}\text{ Determine the final velocity of the shell and its angle of impact.}\\$
 $\text{Because }\Delta\overrightarrow{d_y}=0\text{, }\overrightarrow{v_{f_y}}=\overrightarrow{-v_{i_y}}\text{, assuming no air resistance. However, }\overrightarrow{v_{f_x}}\ne\overrightarrow{v_{i_x}}\text{ due to air resistance.}\\\text{Use kinematic equation 4 to calculate }\overrightarrow{v_{f_x}}\text{ (why not).}$
 $$\Delta\overrightarrow{d_x}=\overrightarrow{v_{f_x}}\Delta t\,-\,\frac{1}{2}\overrightarrow{a_x}\Delta t^2$$
 $$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,-\,\frac{1}{2}(-6.3073\text{ m/s}^2)(92.4746\text{ s})^2$$
-$$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,+\,26,968.6008\text{ m}$$
-$$\overrightarrow{v_{f_x}}=\frac{5,905.8969\text{ m}}{92.4746\text{ s}}$$
-$$\overrightarrow{v_{f_x}}=63.8651\text{ m/s}=64\text{ m/s [Forward]}$$
+$$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,+\,26,973.8236\text{ m}$$
+$$\overrightarrow{v_{f_x}}=\frac{5,895.4308\text{ m}}{92.4746\text{ s}}$$
+$$\overrightarrow{v_{f_x}}=63.7519\text{ m/s}=64\text{ m/s [Forward]}$$
 $$|\overrightarrow{v_f}|=\sqrt{\overrightarrow{v_{f_x}}^2\,+\,\overrightarrow{v_{f_y}}^2}=\sqrt{(63.8651\text{ m/s})^2\,+\,(-453.1254\text{ m/s})^2}$$
 $$|\overrightarrow{v_f}|=\sqrt{4,078.7510\text{ m}^2\text{s}^2\,+\,205,322.6281\text{ m}^2\text{s}^2}$$
-$$|\overrightarrow{v_f}|=457.6040\text{ m/s}=460\text{ m/s}$$
+$$|\overrightarrow{v_f}|=457.5882\text{ m/s}=460\text{ m/s}$$
 $\text{To calculate angle:}$
 $$\theta=\tan^{-1}(\frac{|\overrightarrow{v_{f_y}}|}{|\overrightarrow{v_{f_x}}|})=\tan^{-1}(\frac{453.1254\text{ m/s}}{63.8651\text{ m/s}})$$
-$$\theta=81.9773^\circ=82^\circ$$
+$$\theta=81.9914^\circ=82^\circ$$
 $\text{ }\\$
 </p>
 <a href="https://jchenrgss.github.io/index.html">Return to main page</a><br>
