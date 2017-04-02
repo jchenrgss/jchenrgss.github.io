@@ -35,7 +35,7 @@ $$\Delta\overrightarrow{d_x}=\frac{\overrightarrow{v_i}^2\sin2\theta}{g}$$
 $\text{Use }Nagato\text{'s maximum gun elevation, because as }\theta\text{ increases, }\sin2\theta\text{ increases to approximately }0.57.$
 $$\Delta\overrightarrow{d_x}=\frac{(790\text{ m/s})^2(\sin2(35^\circ))}{(9.8\text{ m/s}^2)}$$
 $$\Delta\overrightarrow{d_x}=\frac{(624,100\text{ m}^2\text{s}^2)(\sin70^\circ)}{9.8\text{ m/s}^2}$$
-$$\Delta\overrightarrow{d_x}=59,843.0780=60,000\text{ m [Forward]}$$
+$$\Delta\overrightarrow{d_x}=59,843.0780\text{ m}=60,000\text{ m [Forward]}$$
 $59,843.08\text{ m is much greater than }38,400\text{ m, so air resistance cannot be ignored.}\\$
 $\textbf{2.}\text{ Determine the maximum range of the shell, assuming air resistance. Use the drag equation:}$
 $$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA$$
@@ -45,10 +45,10 @@ $$A=\pi(\frac{0.41\text{ m}}{2})^2=0.1320\text{ m}^2$$
 $\text{Therefore,}$
 $$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(790\text{ m/s})^2(0.010)(0.1320\text{ m}^2)$$
 $$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(624,100\text{ m}^2\text{s}^{-2})(1.132\times10^3\text{ m}^2)$$
-$$\overrightarrow{F_D}=504.5849=500\text{ N [Backward]}$$
+$$\overrightarrow{F_D}=504.5849\text{ N}=500\text{ N [Backward]}$$
 $\text{Next, calculate the acceleration due to air resistance using Newton's second law of motion.}$
 $$\overrightarrow{F_D}=ma_D=(800\text{ kg})(a_D)$$
-$$a_D=\frac{504.5849\text{ N}}{800\text{ kg}}=0.6307\text{ m/s}^2$$
+$$a_D=\frac{504.5849\text{ N}}{800\text{ kg}}=0.6307\text{ m/s}^2=0.63\text{ m/s}^2\text{ [Backward]}$$
 $\text{ }\\$
 </p>
 </body>
