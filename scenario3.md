@@ -83,6 +83,15 @@ $$\overrightarrow{a_x}=\frac{89.1543\text{ N}}{800\text{ kg}}=0.1114\text{ m/s}^
 $$\Delta\overrightarrow{d_x}=\overrightarrow{v_{i_x}}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_x}\Delta t^2=(105\text{ m/s})(25.5299\text{ s})+\frac{1}{2}(-0.1114\text{ m/s}^2)(25.5299\text{ s})^2$$
 $$\Delta\overrightarrow{d_x}=2680.6368\text{ m}\,-\,(0.557\text{ m/s}^2)(651.7745\text{ s}^2)$$
 $$\Delta\overrightarrow{d_x}=2644.3190\text{ m}=2600\text{ m [Forward]}$$
+$\textbf{6.}\text{ Determine the final velocity and angle of impact.}$
+$\text{Use kinematic equation 2, because haven't used this one yet:}$
+$$\Delta\overrightarrow{d_y}=\frac{1}{2}(\overrightarrow{v_{f_y}}\,+\,\overrightarrow{v_{i_y}})\Delta t$$
+$$3000\text{ m}=\frac{1}{2}(\overrightarrow{v_{f_y}}\,+\,0)(25.5299\text{ s})$$
+$$\overrightarrow{v_{f_y}}=\frac{6000\text{ m}}{25.5299\text{ s}}=235.0188\text{ m/s}$$
+$$\Delta\overrightarrow{d_x}=\frac{1}{2}(\overrightarrow{v_{f_x}}\,+\,\overrightarrow{v_{i_x}})\Delta t$$
+$$2644.3190\text{ m}=\frac{1}{2}(\overrightarrow{v_{f_x}}\,+\,105\text{ m/s})(25.5299\text{ s})$$
+$$\frac{5288.6380\text{ m}}{25.5299\text{ s}}=\overrightarrow{v_{f_x}}\,+\,105\text{ m/s}$$
+$$\overrightarrow{v_{f_x}}=102.1549\text{ m/s}$$
 $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
