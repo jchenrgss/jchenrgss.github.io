@@ -74,7 +74,8 @@ $$|\overrightarrow{v_f}|=\sqrt{\overrightarrow{v_{f_x}}^2\,+\,\overrightarrow{v_
 $$|\overrightarrow{v_f}|=\sqrt{4,078.7510\text{ m}^2\text{s}^2\,+\,205,322.6281\text{ m}^2\text{s}^2}$$
 $$|\overrightarrow{v_f}|=457.6040\text{ m/s}=460\text{ m/s}$$
 $\text{To calculate angle:}$
-
+$$\theta=\tan^{-1}(\frac{|\overrightarrow{v_{f_y}}|}{|\overrightarrow{v_{f_x}}|})=\tan^{-1}(\frac{453.1254\text{ m/s}}{63.8651\text{ m/s}})$$
+$$\theta=81.9773^\circ=82^\circ$$
 $\text{ }\\$
 </p>
 </body>
