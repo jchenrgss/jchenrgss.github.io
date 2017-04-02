@@ -32,14 +32,14 @@ $\textbf{Projectile Motion Calculations}$
 <p>
 $\text{1. Determine the maximum range of the shell, assuming no air resistance. Use the range equation:}$
 $$\Delta\overrightarrow{d}=\frac{\overrightarrow{v_i}^2\sin2\theta}{g}$$
-$\text{Use }Nagato\text{'s maximum gun elevation, because as }\theta\text{ increases, }\sin2\theta\text{ increases to approximately }0.57$
+$\text{Use }Nagato\text{'s maximum gun elevation, because as }\theta\text{ increases, }\sin2\theta\text{ increases to approximately }0.57.$
 $$\Delta\overrightarrow{d}=\frac{(790\text{ m/s})^2(\sin2(35^\circ))}{(9.8\text{ m/s}^2)}$$
 $$\Delta\overrightarrow{d}=\frac{(624,100\text{ m}^2\text{s}^2)(\sin70^\circ)}{9.8\text{ m/s}^2}$$
 $$\Delta\overrightarrow{d}=59,843.0780\text{ m}$$
-$59,843.0780\text{ m is much greater than }38,400\text{ m.}$
+$59,843.0780\text{ m is much greater than }38,400\text{ m.}\\$
 $\text{2. Determine the maximum range of the shell, assuming air resistance. Use the drag equation:}$
 $$F_D=\frac{1}{2}\rho u^2C_DA$$
-$F_D\text{ is the drag force, }\rho\text{ is the density of air, }u\text{ is the airspeed,}C_D\text{ is the drag coefficient, and }A\text{ is the reference area.}$
+$F_D\text{ is the drag force, }\rho\text{ is the density of air, }u\text{ is the airspeed, }C_D\text{ is the drag coefficient, and }A\text{ is the\\reference area.}$
 $\text{ }\\$
 </p>
 </body>
