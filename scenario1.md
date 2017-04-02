@@ -15,7 +15,7 @@ $\textbf{Introduction and Evidence}$
 Nagato, a super-dreadnought battleship built for the Imperial Japanese Navy, served as the flagship of the attack on Pearl Harbor. Here, I will consider the scenario that Nagato used its primary armament to attack and sink the Arizona.
 </p>
 <p>
-The primary armament of Nagato consists of four 41cm/45 3rd Year Type naval guns, initially developed for coast defence mountings.<br><br>
+The primary armament of Nagato consists of four 41-cm/45 3rd Year Type naval guns, initially developed for coast defence mountings.<br><br>
 Overall length: 18.84 m<br>
 Bore length: 18.294 m<br>
 Mass: 102,000 kg<br>
@@ -51,10 +51,10 @@ $$A=\pi(\frac{0.41\text{ m}}{2})^2=0.1320\text{ m}^2$$
 $\text{Therefore,}$
 $$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(790\text{ m/s})^2(0.10)(0.1320\text{ m}^2)$$
 $$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(624,100\text{ m}^2\text{s}^{-2})(0.0132\text{ m}^2)$$
-$$\overrightarrow{F_D}=5,046.8206\text{ N}=5000\text{ N [Backward]}$$
+$$\overrightarrow{F_D}=5046.8206\text{ N}=5000\text{ N [Backward]}$$
 $\text{Next, calculate the acceleration due to air resistance using Newton's second law of motion.}$
 $$\overrightarrow{F_D}=ma_D=(800\text{ kg})(a_D)$$
-$$a_D=\frac{5,045.8485\text{ N}}{800\text{ kg}}=6.3085\text{ m/s}^2=6.3\text{ m/s}^2\text{ [Backward]}$$
+$$a_D=\frac{5046.8206\text{ N}}{800\text{ kg}}=6.3085\text{ m/s}^2=6.3\text{ m/s}^2\text{ [Backward]}$$
 $\text{In order to find the horizontal displacement, first find time using the y-component.}$
 $$\overrightarrow{v_{i_y}}=\overrightarrow{v_i}\sin35^\circ=(790\text{ m/s})(\sin35^\circ)$$
 $$\overrightarrow{v_{i_y}}=453.1254\text{ m/s}$$
@@ -74,10 +74,10 @@ $\text{Because }\Delta\overrightarrow{d_y}=0\text{, }\overrightarrow{v_{f_y}}=\o
 $$\Delta\overrightarrow{d_x}=\overrightarrow{v_{f_x}}\Delta t\,-\,\frac{1}{2}\overrightarrow{a_x}\Delta t^2$$
 $$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,-\,\frac{1}{2}(-6.3073\text{ m/s}^2)(92.4746\text{ s})^2$$
 $$32,874.4977\text{ m}=\overrightarrow{v_{f_x}}(92.4746\text{ s})\,+\,26,973.8236\text{ m}$$
-$$\overrightarrow{v_{f_x}}=\frac{5,895.4308\text{ m}}{92.4746\text{ s}}$$
+$$\overrightarrow{v_{f_x}}=\frac{5895.4308\text{ m}}{92.4746\text{ s}}$$
 $$\overrightarrow{v_{f_x}}=63.7519\text{ m/s}=64\text{ m/s [Forward]}$$
 $$|\overrightarrow{v_f}|=\sqrt{\overrightarrow{v_{f_x}}^2\,+\,\overrightarrow{v_{f_y}}^2}=\sqrt{(63.8651\text{ m/s})^2\,+\,(-453.1254\text{ m/s})^2}$$
-$$|\overrightarrow{v_f}|=\sqrt{4,078.7510\text{ m}^2\text{s}^2\,+\,205,322.6281\text{ m}^2\text{s}^2}$$
+$$|\overrightarrow{v_f}|=\sqrt{4078.7510\text{ m}^2\text{s}^2\,+\,205,322.6281\text{ m}^2\text{s}^2}$$
 $$|\overrightarrow{v_f}|=457.5882\text{ m/s}=460\text{ m/s}$$
 $\text{To calculate angle:}$
 $$\theta=\tan^{-1}(\frac{|\overrightarrow{v_{f_y}}|}{|\overrightarrow{v_{f_x}}|})=\tan^{-1}(\frac{453.1254\text{ m/s}}{63.8651\text{ m/s}})$$
