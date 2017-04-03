@@ -138,14 +138,28 @@ $\text{Change in velocity:}$
 $$\Delta\overrightarrow{v}=\overrightarrow{v_f}-\overrightarrow{v_i}$$
 $$\Delta\overrightarrow{v}=(16.4966\text{ m/s }\hat{\text{i}}+93.5567\text{ m/s }\hat{\text{j}})-(-74.2462\text{ m/s }\hat{\text{i}}-74.2462\text{ m/s }\hat{\text{j}})$$
 $$\Delta\overrightarrow{v}=90.7428\text{ m/s }\hat{\text{i}}+167.8029\text{ m/s }\hat{\text{j}}$$
-$$|\Delta\overrightarrow{v}|=\sqrt{\Delta\overrightarrow{d_{\hat{\text{i}}}}^2+\Delta\overrightarrow{d_{\hat{\text{j}}}}^2}=\sqrt{(90.7428\text{ m/s }\hat{\text{i}})^2+(167.8029\text{ m/s }\hat{\text{j}})^2}$$
+$$|\Delta\overrightarrow{v}|=\sqrt{\overrightarrow{v_{\hat{\text{i}}}}^2+\overrightarrow{v_{\hat{\text{j}}}}^2}=\sqrt{(90.7428\text{ m/s }\hat{\text{i}})^2+(167.8029\text{ m/s }\hat{\text{j}})^2}$$
 $$|\Delta\overrightarrow{v}|=190.7671\text{ m/s}=190\text{ m/s}$$
-$$\theta=\tan^{-1}(\frac{\Delta\overrightarrow{d_{\hat{\text{j}}}}}{\Delta\overrightarrow{d_{\hat{\text{i}}}}})=\tan^{-1}(\frac{167.8029\text{ m/s }\hat{\text{j}}}{90.7428\text{ m/s }\hat{\text{i}}})$$
+$$\theta=\tan^{-1}(\frac{\Delta\overrightarrow{v_{\hat{\text{j}}}}}{\Delta\overrightarrow{v_{\hat{\text{i}}}}})=\tan^{-1}(\frac{167.8029\text{ m/s }\hat{\text{j}}}{90.7428\text{ m/s }\hat{\text{i}}})$$
 $$\theta=61.5968^\circ=62^\circ$$
 $\therefore\text{The change in velocity is approximately 190 m/s [E }62^\circ\text{ N].}$
 $$\overrightarrow{a}=\frac{\Delta\overrightarrow{v}}{\Delta t}=\frac{190.7671\text{ m/s}}{5400\text{ s}}$$
 $$\overrightarrow{a}=3.5327\times10^2\text{ m/s}^2=3.5\times10^2\text{ m/s}^2 \text{ [E }62^\circ\text{ N]}$$
 $\textbf{2.}\text{ At one point during the battle, Arizona is at a position 600 m [N }15^\circ\text{ W] relative to one B5N.}\\\text{A second B5N is at a position 240 m [E }20^\circ\text{ N] relative to Arizona. What is the displacement}\\\text{between the two B5Ns?}\\$
+$\text{Vector components:}$
+$$\overrightarrow{d_i}=(600\text{ m}\times\cos75^\circ\text{ }\hat{\text{i}})+(600\text{ m/s}\times\sin75^\circ\text{ }\hat{\text{j}})$$
+$$\overrightarrow{d_i}=-155.2914\text{ m }\hat{\text{i}}+579.5555\text{ m }\hat{\text{j}}$$
+$$\overrightarrow{d_f}=(240\text{ m/s}\times\cos20^\circ\text{ }\hat{\text{i}})+(240\text{ m/s}\times\sin20^\circ\text{ }\hat{\text{j}})$$
+$$\overrightarrow{d_f}=225.5262\text{ m }\hat{\text{i}}+82.0848\text{ m }\hat{\text{j}}$$
+$\text{Change in velocity:}$
+$$\Delta\overrightarrow{d}=\overrightarrow{d_f}-\overrightarrow{d_i}$$
+$$\Delta\overrightarrow{d}=(225.5262\text{ m }\hat{\text{i}}+82.0848\text{ m }\hat{\text{j}})-(-155.2914\text{ m }\hat{\text{i}}+579.5555\text{ m }\hat{\text{j}})$$
+$$\Delta\overrightarrow{d}=380.8177\text{ m }\hat{\text{i}}-497.4707\text{ m }\hat{\text{j}}$$
+$$|\Delta\overrightarrow{d}|=\sqrt{\overrightarrow{d_{\hat{\text{i}}}}^2+\overrightarrow{d_{\hat{\text{j}}}}^2}=\sqrt{(380.8177\text{ m }\hat{\text{i}})^2+(-497.4707\text{ m }\hat{\text{j}})^2}$$
+$$|\Delta\overrightarrow{d}|=626.4975\text{ m}=626\text{ m}$$
+$$\theta=\tan^{-1}(\frac{\Delta\overrightarrow{d_{\hat{\text{j}}}}}{\Delta\overrightarrow{d_{\hat{\text{i}}}}})=\tan^{-1}(\frac{-497.4707\text{ m }\hat{\text{j}}}{380.8177\text{ m }\hat{\text{i}}})$$
+$$\theta=-52.5657^\circ=-53^\circ$$
+$\therefore\text{The displacement is approximately 626 m [E }53^\circ\text{ S].}$
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
