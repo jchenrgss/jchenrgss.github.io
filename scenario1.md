@@ -16,11 +16,12 @@ Nagato, a super-dreadnought battleship built for the Imperial Japanese Navy, ser
 </p>
 <p>
 The primary armament of Nagato consists of four 41-cm/45 3rd Year Type naval guns, initially developed for coast defence mountings.<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/16-inch_gun_from_battleship_Mutsu_outside_the_Yamato_Museum_in_October_2008.JPG" alt="41-cm naval gun at the Yamato Museum in 2008"><br><br>
 Overall length: 18.84 m<br>
 Bore length: 18.294 m<br>
 Mass: 102,000 kg<br>
 Elevation capacity: -2/+35 degrees<br>
-Rate of fire: 2.5 rpm<br><br>
+Rate of fire: 2.5 rpm<br>
 Shell mass: 1,020 kg<br>
 Muzzle velocity: 790 m/s<br>
 Effective firing range: 30,200 m<br>
@@ -31,7 +32,7 @@ $\text{ }\\$
 </p>
 $\textbf{Velocity Vectors}$
 <p>
-Text
+Images go here
 $\text{ }\\$
 </p>
 $\textbf{Projectile Motion Calculations (Symmetric Parabola)}$
@@ -50,7 +51,7 @@ $$A=\pi r^2=\pi(\frac{d}{2})^2\text{, where }d=0.41\text{ m (gun caliber)}$$
 $$A=\pi(\frac{0.41\text{ m}}{2})^2=0.1320\text{ m}^2$$
 $\text{Therefore,}$
 $$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(790\text{ m/s})^2(0.10)(0.1320\text{ m}^2)$$
-$$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(624,100\text{ m}^2\text{s}^{-2})(0.0132\text{ m}^2)$$
+$$\overrightarrow{F_D}=\frac{1}{2}(1.225\text{ kg/m}^3)(624,100\text{ m}^2/\text{s}^2)(0.0132\text{ m}^2)$$
 $$\overrightarrow{F_D}=5046.8206\text{ N}=5000\text{ N [Backward]}$$
 $\text{Next, calculate the acceleration due to air resistance using Newton's second law of motion.}$
 $$\overrightarrow{F_D}=ma_D=(800\text{ kg})(a_D)$$
