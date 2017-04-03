@@ -125,6 +125,11 @@ $$\theta=\tan^{-1}(\frac{(105\text{ m/s})^2}{(500\text{ m})(9.8\text{ m/s}^2)})$
 $$\theta=66.0375^\circ=66^\circ$$
 $\text{ }\\$
 </p>
+$\textbf{Vector Addition (Relative Velocity)}$
+<p>
+$\textbf{1.}\text{ If a B5N is 2 km [E] of Arizona and a 60 km/h wind is blowing from the North, determine how far the B5N will be off-target by.}$
+$\text{ }\\$
+</p>
 $\textbf{Vector Subtraction (Displacement / Average Velocity)}$
 <p>
 $\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W].}\\\text{At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a}\\\text{velocity of 342 m/s [N }10^\circ\text{ E]. Determine the change in velocity and average acceleration of the B5Ns.}\\$
