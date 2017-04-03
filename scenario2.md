@@ -71,11 +71,6 @@ $\textbf{Motion Graphs}$
 Text
 $\text{ }\\$
 </p>
-$\textbf{Vector Addition (Relative Motion)}$
-<p>
-Text
-$\text{ }\\$
-</p>
 $\textbf{System of Forces and Newton's Third Law of Motion}$
 <p>
 Text
