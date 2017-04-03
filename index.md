@@ -38,12 +38,19 @@ $\text{ }\\$
 </p>
 $\textbf{Sources of Error}$
 <p>
-Sources of error
+Since only simple physics concepts have been used in this analysis, there are many sources of error, which undoubtedly affect the calculation results. However, they do not affect the conclusions that have been reached regarding the viability of each of the three scenarios. For example, in many of the calculations performed, air resistance was simply ignored. In Nagato's case, this lead to an inaccuracy of nearly 20,000 km (having a significantly greater firing range than possible). Additionally, wind was also not taken into account, because weather reports were not available.
+</p>
+<p>
+For the calculations that used the drag equation, several assumptions were made. 1: rho (air pressure) was kept at a constant 1.225 kg/m^3, despite the alitude; 2: one velocity was used to calculate the drag force (since flow velocity is proportional to the drag force, as velocity decreases, drag should also decrease), meaning that drag was constant (avoiding using calculus); 3: drag coefficients were not readily available (using 0.025 as an average for medium-sized turboprops and 0.1 as a low guess from US army source material); and 4: the reference area was one surface only (wing area; bomb diameter), again trying to avoid the use of calculus.
+</p>
+<p>
+Despite assuming ideal conditions for most calculations, the conclusions were not affected, because logical reasoning was taken into account to reduce the effects of sources of error. In analyses such as this, conclusions should not just be based off of hard numbers; common sense and deduction should be used to explain anomalies and provide alternate, perhaps more realistic possibilities.
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
 <p>
-Conclusion
+Looking through these three scenarios (there are obviously more possibilities, but these three are the most likely), it becomes evident that the second scenario ("Val" dive bombing) is the least likely, due to the lower damage potential of the 250-kg bomb and the increased angle at which the bomb is dropped. Out of the remaining two possibilities, the firs scenario (Nagato) is eliminated through strategic reasoning despite having similar quantitative evidence. The last scenario is the most likely (and indeed, the correct one), because of several different reasons. 1: the bomb has enough destructive potential; 2: the bomb hit the deck at an appropriate angle to detonate beneath the gun turret; 3: there were many B5Ns in the sky during the attack; and 4: Mid-altitude bombing has the least amount of risk involved.
 </p>
+Math written using $\Latex$
 </body>
 </html>
