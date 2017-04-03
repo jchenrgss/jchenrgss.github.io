@@ -73,7 +73,13 @@ $\text{ }\\$
 </p>
 $\textbf{System of Forces and Newton's Third Law of Motion}$
 <p>
-$\textbf{1.}\text{ After the attack, D3As return to land on their carriers, which catch the planes with arresting cables.}\\\text{If the D3As come in to land at 100 km/h, and must land in 25 m, determine the minimum tension force in the arresting cable.}$
+$\textbf{1.}\text{ After the attack, D3As return to land on their carriers, which catch the planes with arresting cables.}\\\text{If the D3As come in to land at 100 km/h, and must land in 25 m, determine the minimum tension force}\\\text{in the arresting cable.}$
+$$\overrightarrow{v_f}^2=\overrightarrow{v_i}^2+2\overrightarrow{a}\Delta d\text{, }\overrightarrow{a}=\frac{\overrightarrow{v_f}^2-\overrightarrow{v_i}^2}{2\Delta d}$$
+$$\overrightarrow{a}=\frac{0-(27.\overline{77}\text{ m/s})^2}{2(25\text{ m})}$$
+$$\overrightarrow{a}=-15.4321\text{ m/s}^2=15\text{ m/s}^2\text{ [Backward]}$$
+$$\overrightarrow{F_{\text{net}}}=\overrightarrow{F_T}=m\overrightarrow{a}$$
+$$\overrightarrow{F_T}=(3400\text{ kg})(15.4321\text{ m/s}^2)$$
+$$\overrightarrow{F_T}=-52,469.1358\text{ N}=52,000\text{ N [Backward]}$$
 $\text{ }\\$
 </p>
 $\textbf{Centripetal Force}$
