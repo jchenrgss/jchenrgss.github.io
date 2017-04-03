@@ -88,7 +88,7 @@ $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
 <p>
-<img src="https://i.imgur.com/iBJ4rTs.png" alt="3"><br><br>
+<img src="https://i.imgur.com/K4kxSJ0.png" alt="3"><br><br>
 <img src="https://i.imgur.com/eGR8KwO.png" alt="4"><br><br>
 <img src="https://i.imgur.com/TSUQK74.png" alt="5"><br><br>
 <img src="https://i.imgur.com/tF1DN49.png" alt="6"><br><br>
