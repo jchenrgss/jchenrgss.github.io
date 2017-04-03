@@ -53,17 +53,17 @@ $\text{Assume air resistance.}$
 $$\overrightarrow{v_f}^2=\overrightarrow{v_i}^2+2\overrightarrow{a_y}\Delta\overrightarrow{d_y}=0+2\overrightarrow{a_y}\Delta\overrightarrow{d_y}$$
 $$\overrightarrow{v_f}=\sqrt{2(8.0782\text{ m/s}^2)(1000\text{ m}-400\text{ m})}$$
 $$\overrightarrow{v_f}=98.4572\text{ m/s}=98\text{ m/s [Downward]}$$
-$\textbf{4.}\text{ Determine the final velocity of the bomb and the impact angle.}\\$
-$\text{Assume no air resistance for the bomb since it is relatively small.}\\$
-$$\overrightarrow{v_{f_y}}^2=\overrightarrow{v_{i_y}}^2+2\overrightarrow{a_y}\Delta\overrightarrow{d_y}\text{, }\overrightarrow{v_{f_y}}=\sqrt{\overrightarrow{v_{i_y}}^2+2\overrightarrow{a_y}\Delta\overrightarrow{d_y}}\\$$
-$$\overrightarrow{v_{f_y}}=\sqrt{(98.4572\text{ m/s})^2+2(9.8\text{ m/s}^2)(400\text{ m})}\\$$
-$$\overrightarrow{v_{f_y}}=132.4153\text{ m/s}=130\text{ m/s [Downward]}\\$$
-$$\overrightarrow{v_{f_x}}=\overrightarrow{v_f}\sin\theta=(108.0556\text{ m/s})(\sin20^\circ)\\$$
-$$\overrightarrow{v_{f_x}}=36.9572\text{ m/s}=37\text{ m/s [Forward]}\\$$
-$$|\overrightarrow{v_f}|=\sqrt{\overrightarrow{v_{f_x}}^2+\overrightarrow{v_{f_y}}^2}=\sqrt{36.9572\text{ m/s}^2+(132.4153\text{ m/s})^2}\\$$
-$$|\overrightarrow{v_f}|=137.4760\text{ m/s}=140\text{ m/s}\\$$
-$$\theta=\tan^{-1}(\frac{\overrightarrow{v_{f_x}}}{\overrightarrow{v_{f_y}}})=\tan^{-1}(\frac{36.9572\text{ m/s}}{132.4153\text{ m/s}})\\$$
-$$\theta=15.5944^\circ=16^\circ\text{ (Impact angle is }74^\circ\text{)}
+$\textbf{4.}\text{ Determine the final velocity of the bomb and the impact angle.}$
+$\text{Assume no air resistance for the bomb since it is relatively small.}$
+$$\overrightarrow{v_{f_y}}^2=\overrightarrow{v_{i_y}}^2+2\overrightarrow{a_y}\Delta\overrightarrow{d_y}\text{, }\overrightarrow{v_{f_y}}=\sqrt{\overrightarrow{v_{i_y}}^2+2\overrightarrow{a_y}\Delta\overrightarrow{d_y}}$$
+$$\overrightarrow{v_{f_y}}=\sqrt{(98.4572\text{ m/s})^2+2(9.8\text{ m/s}^2)(400\text{ m})}$$
+$$\overrightarrow{v_{f_y}}=132.4153\text{ m/s}=130\text{ m/s [Downward]}$$
+$$\overrightarrow{v_{f_x}}=\overrightarrow{v_f}\sin\theta=(108.0556\text{ m/s})(\sin20^\circ)$$
+$$\overrightarrow{v_{f_x}}=36.9572\text{ m/s}=37\text{ m/s [Forward]}$$
+$$|\overrightarrow{v_f}|=\sqrt{\overrightarrow{v_{f_x}}^2+\overrightarrow{v_{f_y}}^2}=\sqrt{36.9572\text{ m/s}^2+(132.4153\text{ m/s})^2}$$
+$$|\overrightarrow{v_f}|=137.4760\text{ m/s}=140\text{ m/s}$$
+$$\theta=\tan^{-1}(\frac{\overrightarrow{v_{f_x}}}{\overrightarrow{v_{f_y}}})=\tan^{-1}(\frac{36.9572\text{ m/s}}{132.4153\text{ m/s}})$$
+$$\theta=15.5944^\circ=16^\circ\text{ (Impact angle is }74^\circ\text{)}$$
 $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
