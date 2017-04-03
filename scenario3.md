@@ -133,7 +133,10 @@ $$|\overrightarrow{v_{pg}}|=\sqrt{(105\text{ m/s }\hat{\text{i}})^2+(16.\overlin
 $$|\overrightarrow{v_{pg}}|=106.3145\text{ m/s}=110\text{ m/s}$$
 $$\theta=\tan^{-1}(\frac{\overrightarrow{v_{ag}}}{\overrightarrow{v_{pa}}})=\tan^{-1}(\frac{16.\overline{66}\text{ m/s }\hat{\text{j}}}{105\text{ m/s }\hat{\text{i}}})$$
 $$\theta=6.3402^\circ=6.3^\circ$$
-
+$$\Delta t=\frac{\Delta\overrightarrow{d_x}}{\overrightarrow{v_x}}=\frac{2000\text{ m}}{105\text{ m/s}}$$
+$$\Delta t=19.0476\text{ s}=19\text{ s}$$
+$$\Delta\overrightarrow{d_y}=\overrightarrow{v_y}\Delta t=(16.\overline{66}\text{ m/s})(19.0476\text{ s})$$
+$$\Delta\overrightarrow{d_y}=317.4601\text{ m}=320\text{ m [South]}$$
 $\text{ }\\$
 </p>
 $\textbf{Vector Subtraction (Displacement / Average Velocity)}$
