@@ -127,7 +127,13 @@ $\text{ }\\$
 </p>
 $\textbf{Vector Addition (Relative Velocity)}$
 <p>
-$\textbf{1.}\text{ If a B5N is 2 km [E] of Arizona and a 60 km/h wind is blowing from the North, determine how far the B5N will be off-target by.}$
+$\textbf{1.}\text{ If a B5N is 2 km [E] of Arizona and a 60 km/h wind is blowing from the North, determine the}\\\text{B5N's relative ground speed and how far it will be off-target by.}$
+$$\overrightarrow{v_{pg}}=\overrightarrow{v_{pa}}+\overrightarrow{v_{ag}}=105\text{ m/s }\hat{\text{i}}+16.\overline{66}\text{ m/s }\hat{\text{j}}$$
+$$|\overrightarrow{v_{pg}}|=\sqrt{(105\text{ m/s }\hat{\text{i}})^2+(16.\overline{66}\text{ m/s }\hat{\text{j}})^2}$$
+$$|\overrightarrow{v_{pg}}|=106.3145\text{ m/s}=110\text{ m/s}$$
+$$\theta=\tan^{-1}(\frac{\overrightarrow{v_{ag}}}{\overrightarrow{v_{pa}}})=\tan^{-1}(\frac{16.\overline{66}\text{ m/s }\hat{\text{j}}}{105\text{ m/s }\hat{\text{i}}})$$
+$$\theta=6.3402^\circ=6.3^\circ$$
+
 $\text{ }\\$
 </p>
 $\textbf{Vector Subtraction (Displacement / Average Velocity)}$
