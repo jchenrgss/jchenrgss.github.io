@@ -87,12 +87,12 @@ $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
 <p>
-Text
+Images go here
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
 <p>
-Based on the evidence that Nagato probably would have fired her guns from a range of 33,000 km away (which is approximately her maximum effective firing range), and that the shell would have come down on Arizona at about an 82 degree angle, it is possible that the shell penetrated the deck of Arizona and hit the second turret's ammunition magazine, causing it to explode. From a physics perspective, it would not be possible to determine if Nagato was the culprit in the destruction of Arizona, because the projectile motion calculations provide a viable explanation. From an evidence-based perspective, the same conclusion can be reached because the 41-cm shell fired by Nagato's main guns were the same shell (albeit slightly modified) dropped by B5N bombers. Thus, the impact markings would be the same.
+Based on the evidence that Nagato probably would have fired her guns from a range of 33,000 km away (which is approximately her maximum effective firing range), and that the shell would have come down on Arizona at about an 82 degree angle, it is possible that the shell penetrated the deck of Arizona and hit the second turret's ammunition magazine, causing it to explode. From a physics perspective, it would not be possible to determine if Nagato was the culprit in the destruction of Arizona, because the projectile motion calculations are similar to those in the third scenario. From an evidence-based perspective, the same conclusion can be reached because the 41-cm shell fired by Nagato's main guns were the same shell dropped by B5N bombers. Thus, the impact markings would be the same.
 </p>
 <img src="https://i.imgur.com/3ffyxna.jpg" alt="Diagram of USS Arizona">
 <p>
