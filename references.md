@@ -9,4 +9,4 @@ References
   8. USS ARIZONA [Website]. (2017). Retrieved from http://pearl-harbor.com/arizona/specifications.html.
   9. USS ARIZONA PLANS [Website]. (n.d.). Retrieved from http://www.researcheratlarge.com/Ships/BB39/BOGP/.
 
-[Return to main page](https://jchenrgss.github.io/index.md)
+<a href="https://jchenrgss.github.io/index.html">Return to main page</a><br>
