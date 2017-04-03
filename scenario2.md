@@ -78,7 +78,11 @@ $\text{ }\\$
 </p>
 $\textbf{Centripetal Force}$
 <p>
-$\textbf{1.}\text{ After performing its bombing run, a D3A performs an Immelmann turn to change direction.}\\\text{Assuming that the radius of its turn is 100 m, what must be the minimum velocity of the plane as it completes the maneuver?}$
+$\textbf{1.}\text{ After performing its bombing run, a D3A performs an Immelmann turn to change direction.}\\\text{Assuming that the radius of its turn is 100 m, what must be the minimum velocity of the plane}\\\text{as it completes the maneuver?}$
+$$\overrightarrow{F_{\text{net}}}=\overrightarrow{F_c}=\overrightarrow{F_g}$$
+$$\frac{m\overrightarrow{v}^2}{r}=mg\text{, }\overrightarrow{v}^2=rg$$
+$$\overrightarrow{v}=\sqrt{(100\text{ m})(9.8\text{ m/s}^2)}$$
+$$\overrightarrow{v}=31.3050\text{ m/s}=31\text{ m/s}$$
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
