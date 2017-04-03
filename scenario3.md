@@ -128,7 +128,7 @@ $\text{ }\\$
 </p>
 $\textbf{Vector Subtraction (Displacement / Average Velocity)}$
 <p>
-$\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W].}\\\text{At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a}\\\text{velocity of 342 m/s [N }10^\circ\text{ E]. What is the change in velocity and average acceleration of the B5Ns?}\\$
+$\textbf{1.}\text{ At 08:00, a group of B5Ns are approaching Pearl Harbor with a velocity of 378 m/s [S }45^\circ\text{ W].}\\\text{At 09:30, the attack is over and the same group of bombers are leaving Pearl Harbor with a}\\\text{velocity of 342 m/s [N }10^\circ\text{ E]. Determine the change in velocity and average acceleration of the B5Ns.}\\$
 $\text{Vector components:}$
 $$\overrightarrow{v_i}=(-105\text{ m/s}\times\cos45^\circ\text{ }\hat{\text{i}})+(-105\text{ m/s}\times\sin45^\circ\text{ }\hat{\text{j}})$$
 $$\overrightarrow{v_i}=-74.2462\text{ m/s }\hat{\text{i}}-74.2462\text{ m/s }\hat{\text{j}}$$
@@ -145,7 +145,7 @@ $$\theta=61.5968^\circ=62^\circ$$
 $\therefore\text{The change in velocity is approximately 190 m/s [E }62^\circ\text{ N].}$
 $$\overrightarrow{a}=\frac{\Delta\overrightarrow{v}}{\Delta t}=\frac{190.7671\text{ m/s}}{5400\text{ s}}$$
 $$\overrightarrow{a}=3.5327\times10^2\text{ m/s}^2=3.5\times10^2\text{ m/s}^2 \text{ [E }62^\circ\text{ N]}$$
-$\textbf{2.}\text{ At one point during the battle, Arizona is at a position 600 m [N }15^\circ\text{ W] relative to one B5N.}\\\text{A second B5N is at a position 240 m [E }20^\circ\text{ N] relative to Arizona. What is the displacement}\\\text{between the two B5Ns?}\\$
+$\textbf{2.}\text{ At one point during the battle, Arizona is at a position 600 m [N }15^\circ\text{ W] relative to one B5N.}\\\text{A second B5N is at a position 240 m [E }20^\circ\text{ N] relative to Arizona. Determine the displacement}\\\text{between the two B5Ns.}\\$
 $\text{Vector components:}$
 $$\overrightarrow{d_i}=(600\text{ m}\times\cos75^\circ\text{ }\hat{\text{i}})+(600\text{ m/s}\times\sin75^\circ\text{ }\hat{\text{j}})$$
 $$\overrightarrow{d_i}=-155.2914\text{ m }\hat{\text{i}}+579.5555\text{ m }\hat{\text{j}}$$
@@ -164,7 +164,7 @@ $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
 <p>
-Text
+Based on the evidence that a bomb was dropped from 3,000 m (falling for 26 seconds and travelling a horizontal distance of approximately 2,600 m), it is likely that this is how Arizona was sunk. In addition to this, the final impact angle and velocity would be appropriate for penetrating the deck of the ship and hitting the ammunition magazines underneath the gun turret. Although this scenario does seem similar and nearly identical to the first (Nagato), it is more realistic, because from an evidence-based standpoint, more than half a hundred B5Ns were spotted in the sky, allowing for a much greater chance of hitting the ship.
 $\text{ }\\$
 </p>
 <a href="https://jchenrgss.github.io/index.html">Return to main page</a><br>
