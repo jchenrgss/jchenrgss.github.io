@@ -77,7 +77,6 @@ $$\overrightarrow{F_{\text{net}_x}}=\overrightarrow{F_D}=m\overrightarrow{a_x}$$
 $$\overrightarrow{F_D}=\frac{1}{2}\rho u^2C_DA=\frac{1}{2}(1.225\text{ kg/m}^3)(105\text{ m/s})^2(0.10)(\pi(\frac{0.41\text{ m}}{2})^2)$$
 $$\overrightarrow{F_D}=(0.6125\text{ kg/m}^3)(11,025\text{ m/s})(0.0132\text{ m}^2)$$
 $$\overrightarrow{F_D}=89.1543\text{ N}=89\text{ N [Backward]}$$
-$$\overrightarrow{F_D}=89.1543\text{ N}=89\text{ N [Backward]}$$
 $$89.1543\text{ N}=m\overrightarrow{a_x}=(800\text{ kg})\overrightarrow{a_x}$$
 $$\overrightarrow{a_x}=\frac{89.1543\text{ N}}{800\text{ kg}}=0.1114\text{ m/s}^2\text{ [Backward]}$$
 $$\Delta\overrightarrow{d_x}=\overrightarrow{v_{i_x}}\Delta t\,+\,\frac{1}{2}\overrightarrow{a_x}\Delta t^2=(105\text{ m/s})(25.5299\text{ s})+\frac{1}{2}(-0.1114\text{ m/s}^2)(25.5299\text{ s})^2$$
