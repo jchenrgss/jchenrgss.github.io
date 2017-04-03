@@ -95,7 +95,7 @@ $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
 <p>
-Based on the evidence that a bomb was dropped from 3,000 m (falling for 26 seconds and travelling a horizontal distance of approximately 2,600 m), it is likely that this is how Arizona was sunk. In addition to this, the final impact angle and velocity would be appropriate for penetrating the deck of the ship and hitting the ammunition magazines underneath the gun turret. Although this scenario does seem similar and nearly identical to the first (Nagato), it is more realistic, because from an evidence-based standpoint, more than half a hundred B5Ns were spotted in the sky, allowing for a much greater chance of hitting the ship.
+Based on the evidence that a small bomb was dropped from a low altitude by a dive bomber, it is possible that Arizona was sunk by a D3A, since the angle of impact is appropriate, but its explosive potential and impact velocity are both less than the other scenarios, meaning that it would be more likely that the bomb did not travel far enough through the deck of the ship to reach the ammunition magazines; instead exploding on the surface. In addition to this, there were fewer D3As on the battlefield, and most of them focused on eliminating smaller targets.
 $\text{ }\\$
 </p>
 <a href="https://jchenrgss.github.io/index.html">Return to main page</a><br>
