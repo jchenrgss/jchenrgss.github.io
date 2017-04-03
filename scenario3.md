@@ -12,7 +12,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Pearl_Harbor-_Nakajima_B5N2_over_Hickam-_80G178985.jpg" alt="B5N over Pearl Harbor">
 $\textbf{Introduction and Evidence}$
 <p>
-The Nakajima B5N "Kate" was the standard carrier torpedo bomber of the IJN for much of World War II. During the attack on Pearl Harbor, B5Ns operated from the six Japanese aircraft carriers, and were very successful in their objective, despite being refitted as a bomber. Here, I will consider the final (and proven) scenario that B5Ns bombed the Arizona, causing it to sink.
+The Nakajima B5N "Kate" was the standard carrier torpedo bomber of the IJN for much of World War II. During the attack on Pearl Harbor, B5Ns operated from six Japanese aircraft carriers, and were very successful in their objectives, despite being refitted as a land bomber. Here, I will consider the final (and proven) scenario that B5Ns bombed the Arizona, causing it to sink.
 </p>
 <p>
 The bombs dropped by B5Ns at Pearl Harbor were modified 41-cm armour penetrating (AP) shells fired by the 41-cm naval gun (the same gun on the battleship Nagato). Torpedoes were also used in battle, but not against Arizona.<br><br>
@@ -28,7 +28,7 @@ $\text{ }\\$
 </p>
 $\textbf{Velocity Vectors}$
 <p>
-Text
+Images go here
 $\text{ }\\$
 </p>
 $\textbf{Friction and Equilibrium}$
@@ -100,15 +100,16 @@ $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
 <p>
-Text
+Images go here
 $\text{ }\\$
 </p>
 $\textbf{Newton's First Law of Motion}$
 <p>
 When the dropped bomb hit the deck of Arizona, it did not simply explode on the surface. Instead, it tore a hole through her deck and exploded beneath the second turret, causing its ammunition magazine to explode. This can be explained using Newton's first law of motion: inertia, which means that objects tend to continue in their state of motion unless acted on by an external force. That is, objects in motion tend to stay in motion, unless something acts to stop the object from moving. In this case, the bomb is falling (moving), so when it hits the deck of Arizona, it will continue to move instead of stopping instantly.
 </p>
-Bomb manufacturers exploit this property, and construct bombs with specific fuzes--bombs that explode only after a certain period of time has elapsed since impact. This particular technology was the main reason as to why Arizona exploded so violently. If the bomb were to explode on the deck of the ship, very little damage would be done. By waiting for the bomb to pass through the deck, maximal amounts of damage can be dealt to enemy targets.
+<img src="http://www.researcheratlarge.com/Ships/Drawings/USSArizona_Feb1942%20_181-58-3087_Salvage%20Ops_Declass12358.jpg" alt="Diagram of USS Arizona"><br>
 <p>
+Bomb manufacturers exploit this property, and construct bombs with specific fuzes--bombs that explode only after a certain period of time has elapsed since impact. This particular technology was the main reason as to why Arizona exploded so violently. If the bomb were to explode on the deck of the ship, very little damage would be done. By waiting for the bomb to pass through the deck, maximal amounts of damage can be dealt to enemy targets.
 </p>
 Similarly, inertia can also be used to explain why the ships in Pearl Harbor could not escape and why few US aircraft were able to take off and fight the Japanese aircraft. Ships and planes are very heavy, so require great amounts of force to move. They tend to remain stationary, which makes them vulnerable to attack for long periods of time. By striking preemptively, the Japanese were able to obtain the upper hand in the battle, taking advantage of the enemy's great inertia.
 <p>
