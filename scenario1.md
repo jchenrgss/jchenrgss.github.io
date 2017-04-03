@@ -32,7 +32,7 @@ $\text{ }\\$
 </p>
 $\textbf{Velocity Vectors}$
 <p>
-Images go here
+<img src="https://i.imgur.com/voYlFN9.png" alt="sc1_sym_nar.png"><br><br>
 $\text{ }\\$
 </p>
 $\textbf{Projectile Motion Calculations (Symmetric Parabola)}$
