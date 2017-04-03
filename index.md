@@ -34,6 +34,7 @@ $\textbf{Table of Contents}$
 <a href="https://jchenrgss.github.io/scenario1.html">Scenario 1: Nagato</a><br>
 <a href="https://jchenrgss.github.io/scenario2.html">Scenario 2: Val</a><br>
 <a href="https://jchenrgss.github.io/scenario3.html">Scenario 3: Kate</a><br>
+<a href="https://jchenrgss.github.io/references.html">References</a><br>
 $\text{ }\\$
 </p>
 $\textbf{Sources of Error}$
