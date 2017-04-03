@@ -165,11 +165,11 @@ $$\overrightarrow{d_i}=(600\text{ m}\times\cos75^\circ\text{ }\hat{\text{i}})+(6
 $$\overrightarrow{d_i}=-155.2914\text{ m }\hat{\text{i}}+579.5555\text{ m }\hat{\text{j}}$$
 $$\overrightarrow{d_f}=(240\text{ m/s}\times\cos20^\circ\text{ }\hat{\text{i}})+(240\text{ m/s}\times\sin20^\circ\text{ }\hat{\text{j}})$$
 $$\overrightarrow{d_f}=225.5262\text{ m }\hat{\text{i}}+82.0848\text{ m }\hat{\text{j}}$$
-$\text{Change in velocity:}$
+$\text{Change in position:}$
 $$\Delta\overrightarrow{d}=\overrightarrow{d_f}-\overrightarrow{d_i}$$
 $$\Delta\overrightarrow{d}=(225.5262\text{ m }\hat{\text{i}}+82.0848\text{ m }\hat{\text{j}})-(-155.2914\text{ m }\hat{\text{i}}+579.5555\text{ m }\hat{\text{j}})$$
 $$\Delta\overrightarrow{d}=380.8177\text{ m }\hat{\text{i}}-497.4707\text{ m }\hat{\text{j}}$$
-$$|\Delta\overrightarrow{d}|=\sqrt{\overrightarrow{d_{\hat{\text{i}}}}^2+\overrightarrow{d_{\hat{\text{j}}}}^2}=\sqrt{(380.8177\text{ m }\hat{\text{i}})^2+(-497.4707\text{ m }\hat{\text{j}})^2}$$
+$$|\Delta\overrightarrow{d}|=\sqrt{\overrightarrow{d_{\hat{\text{i}}}^2}+\overrightarrow{d_{\hat{\text{j}}}^2}}=\sqrt{(380.8177\text{ m }\hat{\text{i}})^2+(-497.4707\text{ m }\hat{\text{j}})^2}$$
 $$|\Delta\overrightarrow{d}|=626.4975\text{ m}=626\text{ m}$$
 $$\theta=\tan^{-1}(\frac{\Delta\overrightarrow{d_{\hat{\text{j}}}}}{\Delta\overrightarrow{d_{\hat{\text{i}}}}})=\tan^{-1}(\frac{-497.4707\text{ m }\hat{\text{j}}}{380.8177\text{ m }\hat{\text{i}}})$$
 $$\theta=-52.5657^\circ=-53^\circ$$
