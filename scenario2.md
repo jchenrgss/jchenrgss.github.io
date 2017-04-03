@@ -68,9 +68,9 @@ $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
 <p>
-<img src="https://i.imgur.com/bRkb6A5.png" alt="2"><br><br>
+<img src="https://i.imgur.com/i460u35.png" alt="2"><br><br>
 <img src="https://i.imgur.com/IoOwBMP.png" alt="3"><br><br>
-<img src="https://i.imgur.com/B8vKAOV.png" alt="4"><br><br>
+<img src="https://i.imgur.com/4QztpR7.png" alt="4"><br><br>
 <img src="https://i.imgur.com/n1jXUHk.png" alt="5"><br><br>
 $\text{ }\\$
 </p>
