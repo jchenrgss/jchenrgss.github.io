@@ -52,6 +52,6 @@ $\textbf{Conclusion}$
 Looking through these three scenarios (there are obviously more possibilities, but these three are the most likely), it becomes evident that the second scenario ("Val" dive bombing) is the least likely, due to the lower damage potential of the 250-kg bomb and the increased angle at which the bomb is dropped. Out of the remaining two possibilities, the firs scenario (Nagato) is eliminated through strategic reasoning despite having similar quantitative evidence. The last scenario is the most likely (and indeed, the correct one), because of several different reasons. 1: the bomb has enough destructive potential; 2: the bomb hit the deck at an appropriate angle to detonate beneath the gun turret; 3: there were many B5Ns in the sky during the attack; and 4: Mid-altitude bombing has the least amount of risk involved.
 $\text{ }\\$
 </p>
-$\text{Math written using }\LaTeX\text{ via MathJax. Other formatting done in Markdown and HTML. No CSS or JavaScript was used.}$
+$\text{Math written using }\LaTeX\text{ via MathJax. Other formatting done in Markdown and HTML.}\\\text{No CSS or JavaScript was used.}$
 </body>
 </html>
