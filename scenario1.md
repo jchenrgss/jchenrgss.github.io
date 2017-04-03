@@ -32,8 +32,8 @@ $\text{ }\\$
 </p>
 $\textbf{Velocity Vectors}$
 <p>
-<img src="https://i.imgur.com/voYlFN9.png" alt="sc1_sym_nar.png"><br><br>
-<img src="https://i.imgur.com/fjChrTR.png" alt="sc1_sym_are.png"><br><br>
+<img src="https://i.imgur.com/voYlFN9.png" alt="1"><br><br>
+<img src="https://i.imgur.com/fjChrTR.png" alt="2"><br><br>
 $\text{ }\\$
 </p>
 $\textbf{Projectile Motion Calculations (Symmetric Parabola)}$
@@ -88,7 +88,10 @@ $\text{ }\\$
 </p>
 $\textbf{Motion Graphs}$
 <p>
-Images go here
+<img src="https://i.imgur.com/iBJ4rTs.png" alt="3"><br><br>
+<img src="https://i.imgur.com/eGR8KwO.png" alt="4"><br><br>
+<img src="https://i.imgur.com/TSUQK74.png" alt="5"><br><br>
+<img src="https://i.imgur.com/tF1DN49.png" alt="6"><br><br>
 $\text{ }\\$
 </p>
 $\textbf{Conclusion}$
